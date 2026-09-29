@@ -1,4 +1,4 @@
-# FlipperAmiiboVault
+# FlipperAmiiboCollection
 
 A cleaned and organized collection of **900+ Amiibo NFC files for Flipper Zero**, covering nearly the entire Nintendo Switch-era Amiibo catalog.
 
