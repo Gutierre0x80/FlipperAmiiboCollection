@@ -1,0 +1,6068 @@
+# Happy Home Designer Item List
+
+Mapping for the `HHD Item XX.nfc` files.
+
+> Each NFC file contains a group of items, not a single item.
+
+## HHD Item 01.nfc
+
+- apple
+- orange
+- pear
+- peach
+- cherry
+- coconut
+- durian
+- lemon
+- lychee
+- mango
+- persimmon
+- banana
+- bamboo shoot
+- perfect apple
+- perfect orange
+- perfect pear
+- perfect peach
+- perfect cherry
+- apples
+- oranges
+- pears
+- peaches
+- cherries
+- coconuts
+- durians
+- lemons
+- lychees
+- mangoes
+- persimmons
+- bananas
+- bamboo shoots
+- perfect apples
+- perfect oranges
+- perfect pears
+- perfect peaches
+- perfect cherries
+- wrapping
+- medicine
+- chocolate heart
+- pearl-oyster shell
+- conch shell
+- giant-clam shell
+- coral
+- venus-comb shell
+- scallop shell
+- sea-snail shell
+- cowrie shell
+- sand dollar
+- oyster shell
+- candy
+- lollipop
+- elegant mushroom
+- round mushroom
+- skinny mushroom
+- flat mushroom
+- rare mushroom
+- famous mushroom
+- beehive
+- gold nugget
+- silver nugget
+- ruby
+- sapphire
+- emerald
+- amethyst
+
+## HHD Item 02.nfc
+
+- butter
+- milk
+- vinegar
+- flour
+- sugar
+- sapling
+- flower seeds
+- cedar sapling
+- shrub sapling
+- fertilizer
+- Bell
+- Bell bag
+- K.K. Chorale
+- K.K. March
+- K.K. Waltz
+- K.K. Swing
+- K.K. Jazz
+- K.K. Fusion
+- K.K. Étude
+- K.K. Lullaby
+- K.K. Aria
+- K.K. Samba
+- K.K. Bossa
+- K.K. Calypso
+- K.K. Salsa
+- K.K. Mambo
+- K.K. Reggae
+- K.K. Ska
+- K.K. Tango
+- K.K. Faire
+- Aloha K.K.
+- Lucky K.K.
+- K.K. Condor
+- K.K. Steppe
+- Imperial K.K.
+- K.K. Casbah
+- K.K. Safari
+- K.K. Folk
+- K.K. Rock
+- Rockin' K.K.
+- K.K. Ragtime
+- K.K. Gumbo
+- The K. Funk
+- K.K. Blues
+- Soulful K.K.
+- K.K. Soul
+- K.K. Cruisin'
+- K.K. Love Song
+- K.K. D&B
+- K.K. Technopop
+- DJ K.K.
+- Only Me
+- K.K. Country
+- Surfin' K.K.
+- K.K. Ballad
+- Comrade K.K.
+- K.K. Lament
+- Go K.K. Rider
+- K.K. Dirge
+- K.K. Western
+- Mr. K.K.
+- Café K.K.
+- K.K. Parade
+- Señor K.K.
+
+## HHD Item 03.nfc
+
+- K.K. Song
+- I Love You
+- Two Days Ago
+- My Place
+- Forest Life
+- To the Edge
+- Pondering
+- K.K. Dixie
+- K.K. Marathon
+- King K.K.
+- Mountain Song
+- Marine Song 2001
+- Neapolitan
+- Steep Hill
+- K.K. Rockabilly
+- Agent K.K.
+- K.K. Rally
+- K.K. Metal
+- Stale Cupcakes
+- Spring Blossoms
+- Wandering
+- K.K. House
+- K.K. Sonata
+- Hypno K.K.
+- K.K. Stroll
+- K.K. Island
+- Space K.K.
+- K.K. Adventure
+- K.K. Oasis
+- K.K. Bazaar
+- K.K. Milonga
+- K.K. Groove
+- K.K. Jongara
+- K.K. Flamenco
+- K.K. Moody
+- Bubblegum K.K.
+- K.K. Synth
+- K.K. Disco
+- K.K. Birthday
+- K.K. Chorale
+- K.K. March
+- K.K. Waltz
+- K.K. Swing
+- K.K. Jazz
+- K.K. Fusion
+- K.K. Étude
+- K.K. Lullaby
+- K.K. Aria
+- K.K. Samba
+- K.K. Bossa
+- K.K. Calypso
+- K.K. Salsa
+- K.K. Mambo
+- K.K. Reggae
+- K.K. Ska
+- K.K. Tango
+- K.K. Faire
+- Aloha K.K.
+- Lucky K.K.
+- K.K. Condor
+- K.K. Steppe
+- Imperial K.K.
+- K.K. Casbah
+- K.K. Safari
+
+## HHD Item 04.nfc
+
+- K.K. Folk
+- K.K. Rock
+- Rockin' K.K.
+- K.K. Ragtime
+- K.K. Gumbo
+- The K. Funk
+- K.K. Blues
+- Soulful K.K.
+- K.K. Soul
+- K.K. Cruisin'
+- K.K. Love Song
+- K.K. D&B
+- K.K. Technopop
+- DJ K.K.
+- Only Me
+- K.K. Country
+- Surfin' K.K.
+- K.K. Ballad
+- Comrade K.K.
+- K.K. Lament
+- Go K.K. Rider
+- K.K. Dirge
+- K.K. Western
+- Mr. K.K.
+- Café K.K.
+- K.K. Parade
+- Señor K.K.
+- K.K. Song
+- I Love You
+- Two Days Ago
+- My Place
+- Forest Life
+- To the Edge
+- Pondering
+- K.K. Dixie
+- K.K. Marathon
+- King K.K.
+- Mountain Song
+- Marine Song 2001
+- Neapolitan
+- Steep Hill
+- K.K. Rockabilly
+- Agent K.K.
+- K.K. Rally
+- K.K. Metal
+- Stale Cupcakes
+- Spring Blossoms
+- Wandering
+- K.K. House
+- K.K. Sonata
+- Hypno K.K.
+- K.K. Stroll
+- K.K. Island
+- Space K.K.
+- K.K. Adventure
+- K.K. Oasis
+- K.K. Bazaar
+- K.K. Milonga
+- K.K. Groove
+- K.K. Jongara
+- K.K. Flamenco
+- K.K. Moody
+- Bubblegum K.K.
+- K.K. Synth
+
+## HHD Item 05.nfc
+
+- K.K. Disco
+- K.K. Birthday
+- music box
+- turnip
+- spoiled turnip
+- common butterfly
+- yellow butterfly
+- tiger butterfly
+- peacock butterfly
+- monarch butterfly
+- emperor butterfly
+- agrias butterfly
+- Raja B. butterfly
+- birdwing butterfly
+- moth
+- oak silk moth
+- honeybee
+- bee
+- long locust
+- migratory locust
+- rice grasshopper
+- mantis
+- orchid mantis
+- brown cicada
+- robust cicada
+- giant cicada
+- walker cicada
+- evening cicada
+- cicada shell
+- lantern fly
+- red dragonfly
+- darner dragonfly
+- banded dragonfly
+- petaltail dragonfly
+- ant
+- pondskater
+- diving beetle
+- stinkbug
+- snail
+- cricket
+- bell cricket
+- grasshopper
+- mole cricket
+- walking leaf
+- walking stick
+- bagworm
+- ladybug
+- violin beetle
+- longhorn beetle
+- tiger beetle
+- dung beetle
+- wharf roach
+- hermit crab
+- firefly
+- fruit beetle
+- scarab beetle
+- jewel beetle
+- miyama stag
+- saw stag
+- giant stag
+- rainbow stag
+- cyclommatus stag
+- golden stag
+- horned dynastid
+
+## HHD Item 06.nfc
+
+- horned atlas
+- horned elephant
+- horned hercules
+- goliath beetle
+- flea
+- pill bug
+- mosquito
+- fly
+- house centipede
+- centipede
+- spider
+- tarantula
+- scorpion
+- red feather
+- blue feather
+- green feather
+- yellow feather
+- purple feather
+- white feather
+- pink feather
+- rainbow feather
+- bitterling
+- pale chub
+- crucian carp
+- dace
+- barbel steed
+- carp
+- koi
+- goldfish
+- pop-eyed goldfish
+- killifish
+- crawfish
+- soft-shelled turtle
+- tadpole
+- frog
+- freshwater goby
+- loach
+- catfish
+- eel
+- giant snakehead
+- bluegill
+- yellow perch
+- black bass
+- pike
+- pond smelt
+- sweetfish
+- cherry salmon
+- char
+- rainbow trout
+- stringfish
+- salmon
+- king salmon
+- mitten crab
+- guppy
+- nibble fish
+- angelfish
+- neon tetra
+- piranha
+- arowana
+- dorado
+- gar
+- arapaima
+- saddled bichir
+- sea butterfly
+
+## HHD Item 07.nfc
+
+- sea horse
+- clown fish
+- surgeonfish
+- butterfly fish
+- Napoleonfish
+- zebra turkeyfish
+- blowfish
+- puffer fish
+- horse mackerel
+- barred knifejaw
+- sea bass
+- red snapper
+- dab
+- olive flounder
+- squid
+- moray eel
+- ribbon eel
+- football fish
+- tuna
+- blue marlin
+- giant trevally
+- ray
+- ocean sunfish
+- hammerhead shark
+- shark
+- saw shark
+- whale shark
+- oarfish
+- coelacanth
+- empty can
+- boot
+- seaweed
+- sea grapes
+- sea urchin
+- acorn barnacle
+- oyster
+- turban shell
+- abalone
+- ear shell
+- clam
+- pearl oyster
+- scallop
+- sea anemone
+- sea star
+- sea cucumber
+- sea slug
+- flatworm
+- mantis shrimp
+- sweet shrimp
+- tiger prawn
+- spiny lobster
+- lobster
+- snow crab
+- horsehair crab
+- red king crab
+- spider crab
+- octopus
+- spotted garden eel
+- chambered nautilus
+- horseshoe crab
+- giant isopod
+- exotic wall
+- lovely wall
+- classic wall
+
+## HHD Item 08.nfc
+
+- ranch wall
+- cabana wall
+- blue wall
+- modern wall
+- regal wall
+- green wall
+- cabin wall
+- kiddie wall
+- robo-wall
+- snowman wall
+- forest wall
+- Pavé wall
+- egg wall
+- spooky wall
+- harvest wall
+- Jingle wall
+- princess wall
+- Gracie wallpaper
+- sweets wall
+- gorgeous wall
+- western vista
+- lunar horizon
+- blue tarp
+- ringside seating
+- backyard fence
+- playroom wall
+- sea view
+- lab wall
+- classroom wall
+- bathhouse wall
+- pastel-dot wall
+- parlor wall
+- mod wall
+- kitschy wall
+- groovy wall
+- backgammon wall
+- mosaic wall
+- blue-trim wall
+- plaster wall
+- chic wall
+- ornate wall
+- citrus wall
+- rose wall
+- old brick wall
+- shoji screen
+- gold screen wall
+- tearoom wall
+- modern screen
+- garden wall
+- mortar wall
+- stone wall
+- concrete wall
+- basement wall
+- shanty wall
+- wood paneling
+- floral wall
+- kitchen wall
+- music-room wall
+- manor wall
+- office wall
+- plaza wall
+- lattice wall
+- stately wall
+- imperial wall
+
+## HHD Item 09.nfc
+
+- arched window
+- bamboo wall
+- ivy wall
+- ancient wall
+- exquisite wall
+- tent wall
+- industrial wall
+- library wall
+- illusion wall
+- meadow vista
+- tropical vista
+- desert vista
+- chain-link fence
+- tree-lined wall
+- sky wall
+- cityscape wall
+- dirt-clod wall
+- common wall
+- old wallpaper
+- mushroom mural
+- creepy wall
+- dotted wall
+- ramshackle wall
+- sporty wall
+- golden wall
+- jungle wall
+- underwater wall
+- dig-site wall
+- paintball wall
+- marine pop wall
+- ice wall
+- sloppy wall
+- sci-fi wall
+- rococo wall
+- butterfly wall
+- modern wood wall
+- mermaid wall
+- sleek wall
+- card wall
+- stripe wall
+- alpine wall
+- neutral wall
+- ski-slope wall
+- balloon wall
+- astro wall
+- flower pop wall
+- cheese wall
+- red tile wall
+- maze wall
+- autumn wall
+- palace wall
+- party wall
+- paw-print wall
+- summit wall
+- skyscraper wall
+- exhibit-room wall
+- museum wall
+- notebook wall
+- basic wall
+- hallway wall
+- white tile wall
+- stadium wall
+- train-window wall
+- waiting-room wall
+
+## HHD Item 10.nfc
+
+- steel-frame wall
+- café-curtain wall
+- white brick wall
+- bamboo-grove wall
+- rice-paddy wall
+- magma-cavern wall
+- ocean-horizon wall
+- pink shanty wall
+- 24-hour-shop wall
+- pastel tile wall
+- red-and-white tile wall
+- arched wall
+- fancy tile wall
+- terrace rug
+- ranch flooring
+- cabana flooring
+- blue flooring
+- modern tile
+- regal carpet
+- yellow flooring
+- cabin rug
+- robo-floor
+- snowman carpet
+- monochrome floor
+- pink wood floor
+- white wood floor
+- natural wood floor
+- sweets floor
+- red-carpet floor
+- western desert
+- lunar surface
+- closed road
+- boxing-ring mat
+- backyard lawn
+- ship deck
+- lab floor
+- classroom floor
+- bath tile
+- checkered tile
+- ceramic tile
+- diner tile
+- kitschy tile
+- red tile
+- mosaic tile
+- chessboard rug
+- plaza tile
+- palace tile
+- imperial tile
+- kitchen tile
+- stone tile
+- charcoal tile
+- tatami
+- mossy carpet
+- slate flooring
+- cracked concrete
+- basement floor
+- parquet floor
+- old board floor
+- kitchen flooring
+- music-room floor
+- office flooring
+- block flooring
+- wooden-deck floor
+- birch flooring
+
+## HHD Item 11.nfc
+
+- plank flooring
+- bamboo flooring
+- steel flooring
+- dirt floor
+- ancient tile
+- illusion floor
+- daisy meadow
+- sandy-beach floor
+- Saharah's desert
+- sandlot
+- sidewalk
+- cloud flooring
+- common floor
+- block floor
+- ramshackle floor
+- sporty floor
+- golden carpet
+- concrete floor
+- wildflower floor
+- jungle floor
+- underwater floor
+- dig-site floor
+- paintball floor
+- ice floor
+- sci-fi floor
+- modern wood flooring
+- mermaid carpet
+- white-carpet floor
+- stripe carpet
+- neutral floor
+- ski-slope floor
+- balloon floor
+- astro floor
+- marine pop floor
+- cheese floor
+- maze floor
+- autumn floor
+- rococo floor
+- notebook floor
+- dotted rug
+- exhibit-room floor
+- stone-tile floor
+- parquet floor
+- white tile floor
+- panel carpet floor
+- arched brick floor
+- flagstone floor
+- terra-cotta floor
+- tatami floor
+- herringbone floor
+- school-hall floor
+- water floor
+- pavement floor
+- lobby floor
+- field floor
+- galaxy floor
+- lava floor
+- oil-stained floor
+- blue tile floor
+- orange-panel floor
+- green-argyle floor
+- circle-pattern floor
+- fancy tile floor
+- one-ball tee
+
+## HHD Item 12.nfc
+
+- two-ball tee
+- three-ball tee
+- four-ball tee
+- five-ball tee
+- six-ball tee
+- seven-ball tee
+- eight-ball tee
+- nine-ball tee
+- paw tee
+- daisy tee
+- tulip tee
+- cherry tee
+- skull tee
+- U-R-here tee
+- lightning tee
+- MVP tee
+- BB tee
+- fish tee
+- frog tee
+- bear tee
+- bunny tee
+- bunny shirt
+- elephant tee
+- spade tee
+- diamond tee
+- club tee
+- heart tee
+- big-star tee
+- bright tee
+- A tee
+- No. 1 shirt
+- No. 2 shirt
+- No. 3 shirt
+- No. 4 shirt
+- No. 5 shirt
+- No. 23 shirt
+- No. 67 shirt
+- big bro's tee
+- li'l bro's tee
+- cloudy tee
+- fresh tee
+- dawn tee
+- misty tee
+- sunset tee
+- deep-blue tee
+- peachy tee
+- rainbow tee
+- sno-cone tee
+- orange tie-dye tee
+- purple tie-dye tee
+- green tie-dye tee
+- blue tie-dye tee
+- red tie-dye tee
+- bold-check tee
+- café tee
+- checkered tee
+- blue-check tee
+- red-check tee
+- dogtooth tee
+- tan dogtooth tee
+- rugby tee
+- green-bar tee
+- yellow-bar tee
+- grape-stripe tee
+
+## HHD Item 13.nfc
+
+- beatnik tee
+- red-bar tee
+- blue-stripe tee
+- blue-stripe shirt
+- gelato tee
+- chain-gang tee
+- speedway tee
+- yellow tartan tee
+- fall plaid tee
+- blue tartan tee
+- dapper tee
+- natty tee
+- blue-grid tee
+- red-grid tee
+- dazed tee
+- checkerboard tee
+- Toad tee
+- dark polka tee
+- lite polka tee
+- bubble-gum tee
+- funky-dot tee
+- gumdrop tee
+- big-dot tee
+- aqua polka tee
+- blue-bar tee
+- gold-bar tee
+- brown-bar tee
+- vegetarian tee
+- racer tee
+- pastel-stripe tee
+- rally tee
+- racer 6 tee
+- vertigo tee
+- barber tee
+- jade plaid tee
+- blue plaid tee
+- mint gingham tee
+- picnic tee
+- candy gingham tee
+- lemon gingham tee
+- melon gingham tee
+- bad plaid tee
+- pink tartan tee
+- waffle tee
+- gray tartan tee
+- gray tartan shirt
+- red argyle shirt
+- red argyle tee
+- blue argyle shirt
+- blue argyle tee
+- pink argyle shirt
+- pink argyle tee
+- cyan argyle shirt
+- cyan argyle tee
+- chevron shirt
+- icy shirt
+- aurora knit shirt
+- winter sweater
+- folk shirt
+- argyle knit shirt
+- uncommon shirt
+- comfy sweater
+- beige knit shirt
+- earthy knit shirt
+
+## HHD Item 14.nfc
+
+- spring shirt
+- lively knit shirt
+- deer shirt
+- monkey shirt
+- chocomint tee
+- fern tee
+- leaf tee
+- fall leaf tee
+- straw shirt
+- grass tee
+- snow shirt
+- lovely tee
+- bubble tee
+- chichi-print tee
+- coral tee
+- groovy tee
+- flame tee
+- danger tee
+- Gracie tank
+- future tank
+- optical shirt
+- twinkle tee
+- star tee
+- night-sky tee
+- amethyst tank
+- nebula tee
+- dice tank
+- kiddie tee
+- airy tee
+- crossing shirt
+- splendid tee
+- jagged tee
+- subdued-print tee
+- sharp outfit
+- painter's tee
+- jungle-camo tee
+- arctic-camo tee
+- desert-camo tee
+- circuit tank
+- pulse tank
+- zebra tee
+- tiger tee
+- cow tee
+- leopard tee
+- giraffe tee
+- ladybug tank
+- spiderweb tee
+- caterpillar tank
+- fiendish shirt
+- citrus tee
+- kiwi tee
+- watermelon tee
+- strawberry tee
+- grape tee
+- melon tee
+- pink wave tank
+- flan tank
+- hot-dog tank
+- sandwich tank
+- noodle tee
+- sundae tank
+- dragon suit
+- periwinkle tee
+- hot spring tee
+
+## HHD Item 15.nfc
+
+- new spring tee
+- crewel tee
+- tropical tee
+- corseted shirt
+- noble shirt
+- red aloha tee
+- blue aloha tee
+- western shirt
+- royal shirt
+- firefighter shirt
+- doctor's coat
+- bone shirt
+- zipper shirt
+- mummy shirt
+- military uniform
+- sailor's tee
+- reggae tee
+- camel shirt
+- concierge shirt
+- tuxedo
+- explorer tee
+- soccer tee
+- red down jacket
+- blue down jacket
+- cavalier shirt
+- beaded shirt
+- wrap shirt
+- wrestler tank
+- security tee
+- bear costume
+- frog costume
+- kappa costume
+- imperial shirt
+- racing shirt
+- orange jacket
+- tin shirt
+- scale-armor suit
+- armor suit
+- gold-armor suit
+- striking outfit
+- red warm-up suit
+- baseball shirt
+- red gym tee
+- blue gym tee
+- space suit
+- caveman tank
+- kung-fu tee
+- pleather vest
+- cycling shirt
+- cycling tee
+- chef's outfit
+- genie shirt
+- red-zap suit
+- blue-zap suit
+- green-zap suit
+- samurai shirt
+- patched shirt
+- hero's clothes
+- Varia Suit
+- team NTDO tee
+- gray parka
+- fishing vest
+- captain's jacket
+- ninja shirt
+
+## HHD Item 16.nfc
+
+- detective outfit
+- Santa coat
+- chick tee
+- scale-print tee
+- jinbei top
+- kanji tee
+- raglan shirt
+- happi tee
+- red letter jacket
+- blue letter jacket
+- black letter jacket
+- tiger jacket
+- dragon jacket
+- red flannel shirt
+- blue flannel shirt
+- black flannel shirt
+- pink-bud tank
+- garden tank
+- lacy white tank
+- pink tank
+- hanten shirt
+- work shirt
+- tan puffy vest
+- after-school jacket
+- kids' smock
+- school jacket
+- mint shirt
+- denim jacket
+- prism tee
+- denim vest
+- green gym tee
+- green emblem blazer
+- acid-washed jacket
+- red ringmaster coat
+- white tuxedo jacket
+- black-denim jacket
+- basketball tank
+- Iberian jacket
+- pink parka
+- jockey shirt
+- blue track jacket
+- sweater-vest
+- waistcoat
+- black track jacket
+- beige emblem blazer
+- clerk's shirt
+- green warm-up jacket
+- blue ringmaster coat
+- relay tank
+- snowy sweater
+- red jacket
+- blue jacket
+- floral knit tee
+- dreamy tee
+- pop-bloom tee
+- silk-bloom tee
+- blossom tee
+- yellow aloha tee
+- loud-bloom tee
+- rose-sky tee
+- blue diamond shirt
+- lotus tee
+- rose tee
+- pep-squad tee
+
+## HHD Item 17.nfc
+
+- jester shirt
+- swell shirt
+- go-go shirt
+- Festivale tank
+- pink pj shirt
+- blue pj shirt
+- canary shirt
+- flight-crew shirt
+- café uniform
+- peacoat
+- shearling coat
+- mod shirt
+- tacky sweater
+- sunflower tee
+- green-stripe tank
+- gray tank
+- preppy shirt
+- flowery tee
+- HHA tee
+- HHA men's jacket
+- HHA women's jacket
+- men's recruit suit
+- women's recruit suit
+- men's agent coat
+- women's agent coat
+- Dr. Shrunk's jacket
+- 24-hour-shop uniform
+- swell tee
+- blue diamond tee
+- raglan tee
+- MVP shirt
+- jade plaid shirt
+- red-check shirt
+- rugby shirt
+- painter's shirt
+- pulse shirt
+- toad shirt
+- sailor's shirt
+- frog shirt
+- blue-grid shirt
+- kung-fu shirt
+- tan dogtooth shirt
+- bad plaid shirt
+- fern shirt
+- arctic-camo shirt
+- fall leaf shirt
+- elephant shirt
+- red-grid shirt
+- chain-gang shirt
+- dogtooth shirt
+- moldy shirt
+- waffle shirt
+- vegetarian shirt
+- blue-check shirt
+- picnic shirt
+- natty shirt
+- pink tartan shirt
+- checkerboard shirt
+- dark polka shirt
+- lemon gingham shirt
+- brown-bar shirt
+- dazed shirt
+- nebula shirt
+- bubble-gum shirt
+
+## HHD Item 18.nfc
+
+- blue-bar shirt
+- lite polka shirt
+- yellow-bar shirt
+- yellow tartan shirt
+- amethyst shirt
+- soccer shirt
+- grape-stripe shirt
+- red-bar shirt
+- candy gingham shirt
+- skull shirt
+- flame shirt
+- vertigo shirt
+- green-bar shirt
+- gelato shirt
+- dapper shirt
+- desert-camo shirt
+- jungle-camo shirt
+- beatnik shirt
+- gold-bar shirt
+- fall plaid shirt
+- blue tartan shirt
+- mint gingham shirt
+- bear shirt
+- melon gingham shirt
+- blue plaid shirt
+- melon shirt
+- watermelon shirt
+- zipper tank
+- misty tank
+- purple tie-dye tank
+- jester tank
+- grape tank
+- sno-cone tank
+- aqua polka tank
+- strawberry tank
+- peachy tank
+- reggae tank
+- blue argyle tank
+- twinkle tank
+- green tie-dye tank
+- cool tank
+- optical tank
+- jagged tank
+- rally tank
+- bubble tank
+- deep-blue tank
+- beaded tank
+- coral tank
+- pink argyle tank
+- funky-dot tank
+- groovy tank
+- fresh tank
+- tropical tank
+- sunset tank
+- citrus tank
+- blue tie-dye tank
+- giraffe tank
+- orange tie-dye tank
+- zebra tank
+- tiger tank
+- kiwi tank
+- red tie-dye tank
+- pep-squad tank
+- dawn tank
+
+## HHD Item 19.nfc
+
+- beatnik tank
+- big-dot tank
+- rainbow tank
+- leopard tank
+- cow tank
+- genie vest
+- cyan argyle tank
+- retro swimsuit
+- supermarket outfit
+- stylish suit
+- polo shirt
+- women's office suit
+- blue nurse's uniform
+- flashy suit
+- store uniform
+- sushi chef's outfit
+- comedian's outfit
+- musician's outfit
+- rubber apron
+- frilly apron
+- Felyne's clothes
+- festive dress
+- muumuu
+- blue dotted dress
+- tan dogtooth dress
+- prim outfit
+- overall dress
+- pink lace-up dress
+- academy uniform
+- prep-school uniform
+- blue party dress
+- pink party dress
+- yellow dotted dress
+- pinafore
+- plaid cami dress
+- green dress
+- butterfly dress
+- gaudy dress
+- sea captain's coat
+- pink-zap suit
+- fleece dress
+- vogue dress
+- citrus gingham dress
+- floral knit dress
+- dreamy tank dress
+- silk-bloom dress
+- pop-bloom dress
+- blossom dress
+- loud-bloom dress
+- rose tank dress
+- rose-sky tank dress
+- lotus tank dress
+- blue retro dress
+- orange retro dress
+- cool dress
+- moldy dress
+- blossoming dress
+- ribbon dress
+- blue lace-up dress
+- orange lace-up dress
+- green lace-up dress
+- lime dress
+- turnip dress
+- yodel dress
+
+## HHD Item 20.nfc
+
+- red riding dress
+- witch's robe
+- graduation gown
+- sky dress
+- alpinist dress
+- kimono
+- milkmaid dress
+- toga
+- cake dress
+- waitress dress
+- princess dress
+- fairy-tale dress
+- pink polka dress
+- palatial tank dress
+- poncho
+- fluffy dress
+- cat dress
+- plum coat
+- frock coat
+- casual outfit
+- maid dress
+- trench coat
+- pharaoh's outfit
+- bathrobe
+- polka-dot dress
+- patched dress
+- black-velvet dress
+- dazed dress
+- dogtooth dress
+- nurse's uniform
+- embroidered dress
+- Festivale tank dress
+- tartan-plaid outfit
+- sweater dress
+- shirtdress
+- red dress
+- yellow raincoat
+- dollhouse dress
+- festive-tree dress
+- ballet outfit
+- classic dress
+- U-R-here dress
+- natty dress
+- dapper dress
+- gumdrop dress
+- chima jeogori dress
+- spring kimono
+- caveman tank dress
+- star tank dress
+- twinkle tank dress
+- pastel-stripe dress
+- cat tank dress
+- cake tank dress
+- fluffy tank dress
+- lovely dress
+- blue ballet outfit
+- musician's outfit
+- rental wet suit
+- black wet suit
+- pink wet suit
+- striped wet suit
+- green wet suit
+- orange wet suit
+- red wet suit
+
+## HHD Item 21.nfc
+
+- white wet suit
+- blue wet suit
+- jungle-camo shorts
+- jungle-camo pants
+- cargo pants
+- dogtooth pants
+- tan dogtooth pants
+- patched pants
+- Santa pants
+- hero's pants
+- leopard pants
+- leopard skirt
+- denim skirt
+- lite polka skirt
+- cow pants
+- giraffe pants
+- tiger pants
+- zebra pants
+- armor pants
+- gold-armor pants
+- Iberian pants
+- baseball pants
+- bone pants
+- arctic-camo pants
+- desert-camo pants
+- caveman shorts
+- blue boxing shorts
+- red boxing shorts
+- pep-squad skirt
+- new spring skirt
+- hot spring skirt
+- imperial pants
+- bear-costume pants
+- frog-costume pants
+- kappa-costume pants
+- gray sweatpants
+- western pants
+- funky-dot skirt
+- flame pants
+- green plaid shorts
+- dragon leggings
+- explorer pants
+- firefighter pants
+- checkerboard skirt
+- picnic skirt
+- brown plaid shorts
+- rainbow plaid shorts
+- mint gingham skirt
+- blue polka shorts
+- corseted skirt
+- blue-grid skirt
+- patched-knee pants
+- red-grid skirt
+- blue gym shorts
+- green gym shorts
+- red gym shorts
+- blue-zap pants
+- green-zap pants
+- red-zap pants
+- blue warm-up pants
+- green warm-up pants
+- red warm-up pants
+- jester pants
+- kung-fu pants
+
+## HHD Item 22.nfc
+
+- pleather pants
+- military pants
+- mummy pants
+- Varia Suit pants
+- ninja pants
+- genie pants
+- dark polka skirt
+- racing pants
+- white-lace skirt
+- sailor skirt
+- samurai pants
+- jinbei shorts
+- space pants
+- cuffed pants
+- kilt
+- pink sweatpants
+- chino pants
+- gray tartan skirt
+- two-tone pants
+- natty skirt
+- dapper skirt
+- soccer shorts
+- orange pants
+- wrestler pants
+- black track pants
+- running pants
+- gray formal pants
+- navy formal pants
+- black formal pants
+- white formal pants
+- red-stripe pants
+- red plaid skirt
+- pastel-check skirt
+- grass skirt
+- red tartan pants
+- red polka skirt
+- dry-denim pants
+- black-denim skirt
+- acid-washed pants
+- gray-stripe pants
+- black-denim pants
+- worn-out jeans
+- emerald polka skirt
+- brown argyle skirt
+- pink argyle skirt
+- green tartan pants
+- dry-denim skirt
+- aloha shorts
+- blue-stripe pants
+- Festivale pants
+- pink pj bottoms
+- blue pj bottoms
+- basketball shorts
+- relay shorts
+- brown formal pants
+- royal shorts
+- scale-armor pants
+- black formal skirt
+- gray formal skirt
+- navy formal skirt
+- crocheted tights
+- brown-stripe socks
+- black stockings
+- heart-print tights
+
+## HHD Item 23.nfc
+
+- rainbow tights
+- black ankle socks
+- star tights
+- purple-stripe tights
+- dress socks
+- gray tights
+- navy socks
+- hiking gaiters
+- white-lace socks
+- tube socks
+- argyle socks
+- bobby socks
+- red tights
+- purple star socks
+- gray leggings
+- white socks
+- black tights
+- beige tights
+- colorful socks
+- checkered socks
+- brown socks
+- argyle tights
+- green-stripe socks
+- leg warmers
+- white ankle socks
+- soccer socks
+- black leggings
+- polka-dot socks
+- white stockings
+- gray socks
+- blue-stripe tights
+- green tights
+- blue sneakers
+- white patent shoes
+- purple pumps
+- shearling boots
+- basketball shoes
+- Santa boots
+- hero's boots
+- lace-up boots
+- white leather shoes
+- hiking boots
+- kimono sandals
+- snow boots
+- flip-flops
+- green polka pumps
+- leopard pumps
+- tropical sandals
+- polka-dot rain boots
+- yellow rain boots
+- cleats
+- wooden clogs
+- brown loafers
+- slippers
+- monochrome shoes
+- green sandals
+- tasseled loafers
+- purple high-tops
+- flower loafers
+- patched shoes
+- clogs
+- climbing shoes
+- gladiator sandals
+- ninja sandals
+
+## HHD Item 24.nfc
+
+- steel-toed boots
+- zap boots
+- black rain boots
+- stripe shoes
+- ballet slippers
+- cowboy boots
+- jester's shoes
+- school shoes
+- armor shoes
+- gold-armor shoes
+- blue wrestling shoes
+- red wrestling shoes
+- Varia Suit shoes
+- green buckled shoes
+- black loafers
+- pink slip-ons
+- blue pumps
+- colorful sneakers
+- red boat shoes
+- red shoes
+- orange sandals
+- brown slip-ons
+- yellow buckled shoes
+- purple dot shoes
+- black pumps
+- green-stripe shoes
+- pink sneakers
+- brown pumps
+- yellow sneakers
+- orange shoes
+- gelato umbrella
+- bat umbrella
+- lacy parasol
+- leaf umbrella
+- paper parasol
+- ribbon umbrella
+- red umbrella
+- blue umbrella
+- yellow umbrella
+- green umbrella
+- candy umbrella
+- melon umbrella
+- mint umbrella
+- picnic umbrella
+- lemon umbrella
+- Toad parasol
+- eggy parasol
+- blue dot parasol
+- daisy umbrella
+- paw umbrella
+- petal parasol
+- busted umbrella
+- sunny parasol
+- beach umbrella
+- elegant umbrella
+- modern umbrella
+- leopard umbrella
+- zebra umbrella
+- forest umbrella
+- flame umbrella
+- camo umbrella
+- spider umbrella
+- Gracie umbrella
+- Peach's parasol
+
+## HHD Item 25.nfc
+
+- ghost umbrella
+- maple umbrella
+- real-estate umbrella
+- red cap
+- yellow cap
+- light-blue cap
+- green cap
+- star cap
+- 1-Up cap
+- purple cap
+- blue cap
+- blue pom-pom hat
+- green knit hat
+- orange knit hat
+- pink knit hat
+- purple knit hat
+- red pom-pom hat
+- badge hat
+- straw hat
+- grandpa hat
+- paperboy cap
+- beret
+- dandy hat
+- hunter's cap
+- detective hat
+- top hat
+- puffy hat
+- Gracie hat
+- elegant hat
+- bandana
+- tulip hat
+- do-rag
+- swimming cap
+- wizard's cap
+- newsprint helmet
+- Santa hat
+- big bro's hat
+- li'l bro's hat
+- Wario hat
+- bicycle helmet
+- chef's hat
+- combat helmet
+- scholar's hat
+- safety helmet
+- police cap
+- explorer's hat
+- captain's hat
+- sailor's hat
+- silk hat
+- outback hat
+- milkmaid hat
+- sombrero
+- alpinist hat
+- viking helmet
+- cavalier hat
+- pirate's hat
+- jester's cap
+- witch's hat
+- melon hat
+- strawberry hat
+- kiwi hat
+- mandarin hat
+- watermelon hat
+- grape hat
+
+## HHD Item 26.nfc
+
+- red ribbon
+- blue ribbon
+- yellow ribbon
+- heart hairpin
+- star hairpin
+- moon hairpin
+- halo
+- shamrock hat
+- student cap
+- flamenco hat
+- red-team cap
+- white-team cap
+- hot-dog hat
+- celebration hat
+- emperor's cap
+- banana-split hat
+- school cap
+- white school cap
+- white police cap
+- royal crown
+- crown
+- patched hat
+- birthday hat
+- red New Year's hat
+- y. New Year's hat
+- blue New Year's hat
+- green New Year's hat
+- white cap
+- ribboned straw hat
+- nurse's cap
+- pink nightcap
+- blue plaid fedora
+- hibiscus hairpin
+- straw umbrella hat
+- conical straw hat
+- Iberian hat
+- balloon hat
+- blue nightcap
+- straw boater
+- terry-cloth do-rag
+- shower cap
+- floppy hat
+- flashy hairpin
+- Festivale accessory
+- cloche hat
+- pilot's hat
+- school hat
+- bulb bopper
+- flower bopper
+- heart bopper
+- star bopper
+- mailman's hat
+- plain black cap
+- small silk hat
+- hotel doorman's hat
+- sushi chef's hat
+- boater
+- stripe knit cap
+- pilot's cap
+- fireman's hat
+- baby's hat
+- turban
+- kaffiyeh
+- cow bone
+
+## HHD Item 27.nfc
+
+- samurai wig
+- geisha wig
+- ninja hood
+- powdered wig
+- afro wig
+- regent wig
+- mohawk wig
+- pigtail
+- bun wig
+- tiara hair
+- bridal veil
+- headband
+- bunny hood
+- cat cap
+- bear cap
+- frog cap
+- kappa cap
+- samurai helmet
+- hero's cap
+- racing helmet
+- motocross helmet
+- football helmet
+- knight's helmet
+- Roman helmet
+- diving mask
+- space helmet
+- ski mask
+- wrestling mask
+- retro helmet
+- red-zap helmet
+- blue-zap helmet
+- green-zap helmet
+- pink-zap helmet
+- red ogre mask
+- blue ogre mask
+- Majora's Mask
+- Samus mask
+- Midna's Mask
+- Toad hat
+- pumpkin head
+- King Tut mask
+- ghost mask
+- monster mask
+- bug mask
+- mummy mask
+- red Pikmin
+- blue Pikmin
+- yellow Pikmin
+- Girl's Day updo
+- green headgear
+- red headgear
+- snowman head
+- tsunokakushi
+- Kintaro wig
+- tam-o'-shanter
+- red-horned hat
+- red hood
+- funky wig
+- Makar's Mask
+- fencing mask
+- topknot wig
+- DJ cap
+- lion-dance mask
+- hair-bow wig
+
+## HHD Item 28.nfc
+
+- Tingle hood
+- purple-imp hood
+- stagehand hat
+- matronly bun
+- skeleton hood
+- black veil
+- afro cap
+- werewolf hood
+- ogre's wig
+- diver's hood
+- headkerchief
+- Fi mask
+- coin headpiece
+- batter's helmet
+- jockey's helmet
+- catcher's mask
+- blue headgear
+- braided wig
+- purple-pumpkin head
+- yellow-pumpkin head
+- green-pumpkin head
+- red-pumpkin head
+- birthday shades
+- raincoat hood
+- blue frames
+- red glasses
+- yellow glasses
+- mint glasses
+- purple glasses
+- green glasses
+- brown glasses
+- pink glasses
+- thick glasses
+- silver frames
+- rimmed glasses
+- funky glasses
+- tortoise specs
+- Gracie glasses
+- pilot shades
+- sporty shades
+- huge shades
+- triangle shades
+- tiny shades
+- heart shades
+- star shades
+- 3D glasses
+- ballroom mask
+- superhero mask
+- goggles
+- snorkel mask
+- eye mask
+- HMD
+- monocle
+- doctor's mirror
+- eye patch
+- post-op patch
+- gas mask
+- hockey mask
+- jester's mask
+- red nose
+- stache & glasses
+- big bro's mustache
+- bad bro's stache
+- curly mustache
+
+## HHD Item 29.nfc
+
+- king's beard
+- doctor's mask
+- pacifier
+- beak
+- lemon pack
+- cucumber pack
+- bandage
+- ladder shades
+- Santa beard
+- round glasses
+- cyber shades
+- masquerade mask
+- funny glasses
+- leaf
+- steampunk glasses
+- aviator shades
+- facial mask
+- oval shades
+- red tulips
+- white tulips
+- yellow tulips
+- pink tulips
+- purple tulips
+- black tulips
+- orange tulips
+- white pansies
+- yellow pansies
+- red pansies
+- purple pansies
+- orange pansies
+- blue pansies
+- white cosmos
+- red cosmos
+- yellow cosmos
+- pink cosmos
+- orange cosmos
+- black cosmos
+- red roses
+- white roses
+- yellow roses
+- pink roses
+- orange roses
+- purple roses
+- black roses
+- blue roses
+- gold roses
+- red carnations
+- pink carnations
+- white carnations
+- white lilies
+- yellow lilies
+- red lilies
+- orange lilies
+- pink lilies
+- black lilies
+- purple violets
+- blue violets
+- white violets
+- yellow violets
+- lily of the valley
+- lucky clovers
+- dandelions
+- dandelion puffs
+- mega clankoid
+
+## HHD Item 30.nfc
+
+- clankoid
+- mini clankoid
+- tall clankoid
+- squat dingloid
+- mega dingloid
+- dingloid
+- mini dingloid
+- wee dingloid
+- tall dingloid
+- mega percoloid
+- tall percoloid
+- mega oombloid
+- oombloid
+- mini oombloid
+- tall oombloid
+- rhythmoid
+- mini rhythmoid
+- mega puffoid
+- mini puffoid
+- tall puffoid
+- mega lullaboid
+- lullaboid
+- mini lullaboid
+- tall lullaboid
+- mega sproid
+- sproid
+- mini sproid
+- tall sproid
+- mega bowtoid
+- bowtoid
+- mini bowtoid
+- tall bowtoid
+- mega tootoid
+- tootoid
+- mini tootoid
+- mega plinkoid
+- plinkoid
+- mini plinkoid
+- mega dekkoid
+- dekkoid
+- mini dekkoid
+- mega buzzoid
+- buzzoid
+- mini buzzoid
+- tall buzzoid
+- mega drilloid
+- drilloid
+- mini drilloid
+- mega echoid
+- mini echoid
+- tall echoid
+- mega lamentoid
+- lamentoid
+- mini lamentoid
+- tall lamentoid
+- mega strumboid
+- strumboid
+- mini strumboid
+- tall strumboid
+- mega croakoid
+- croakoid
+- mini croakoid
+- tall croakoid
+- mega fizzoid
+
+## HHD Item 31.nfc
+
+- mini fizzoid
+- mega squelchoid
+- squelchoid
+- mini squelchoid
+- mega howloid
+- howloid
+- mini howloid
+- mega nebuloid
+- squat nebuloid
+- nebuloid
+- mini nebuloid
+- tall nebuloid
+- slim nebuloid
+- mega gongoid
+- gongoid
+- mini gongoid
+- tall gongoid
+- mega poltergoid
+- poltergoid
+- mini poltergoid
+- tall poltergoid
+- metatoid
+- mini metatoid
+- mega bovoid
+- tall bovoid
+- mega oboid
+- oboid
+- tall oboid
+- mega dinkoid
+- mini dinkoid
+- mega harmonoid
+- harmonoid
+- mini harmonoid
+- tall harmonoid
+- tall droploid
+- mega sputnoid
+- sputnoid
+- mini sputnoid
+- tall sputnoid
+- mega alloid
+- mini alloid
+- tall alloid
+- mega timpanoid
+- timpanoid
+- mini timpanoid
+- tall timpanoid
+- gargloid
+- mini gargloid
+- tall gargloid
+- warbloid
+- mini warbloid
+- tall warbloid
+- mega freakoid
+- mini freakoid
+- mega quazoid
+- quazoid
+- mini quazoid
+- tall quazoid
+- slim quazoid
+- mega rustoid
+- rustoid
+- mini rustoid
+- mega brewstoid
+- mini brewstoid
+
+## HHD Item 32.nfc
+
+- tall brewstoid
+- brewstoid
+- exotic bed
+- exotic bureau
+- exotic wardrobe
+- exotic bench
+- exotic chair
+- exotic table
+- exotic end table
+- exotic lamp
+- exotic screen
+- exotic chest
+- exotic wall shelf
+- ranch bed
+- ranch dresser
+- ranch wardrobe
+- ranch couch
+- ranch armchair
+- ranch chair
+- ranch table
+- ranch tea table
+- ranch bookcase
+- ranch hutch
+- ranch wall rack
+- classic bed
+- classic vanity
+- classic wardrobe
+- classic chair
+- classic sofa
+- classic table
+- classic bookcase
+- classic buffet
+- classic desk
+- classic clock
+- classic wall shelf
+- regal bed
+- regal dresser
+- regal armoire
+- regal chair
+- regal sofa
+- regal table
+- regal lamp
+- regal clock
+- regal bookcase
+- regal vanity
+- regal wall lamp
+- blue bed
+- blue bureau
+- blue wardrobe
+- blue chair
+- blue bench
+- blue table
+- blue bookcase
+- blue cabinet
+- blue clock
+- blue dresser
+- blue wall shelf
+- cabana bed
+- cabana dresser
+- cabana wardrobe
+- cabana chair
+- cabana armchair
+- cabana table
+- cabana lamp
+
+## HHD Item 33.nfc
+
+- cabana bookcase
+- cabana vanity
+- cabana screen
+- cabana wall radio
+- green bed
+- green dresser
+- green wardrobe
+- green chair
+- green bench
+- green table
+- green desk
+- green lamp
+- green counter
+- green pantry
+- green wall clock
+- cabin bed
+- cabin dresser
+- cabin wardrobe
+- cabin chair
+- cabin armchair
+- cabin couch
+- cabin table
+- cabin low table
+- cabin bookcase
+- cabin clock
+- cabin wall clock
+- modern bed
+- modern dresser
+- modern wardrobe
+- modern chair
+- modern sofa
+- modern end table
+- modern desk
+- modern table
+- modern cabinet
+- modern lamp
+- modern wall clock
+- kiddie bed
+- kiddie dresser
+- kiddie wardrobe
+- kiddie couch
+- kiddie chair
+- kiddie table
+- kiddie bureau
+- kiddie bookcase
+- kiddie clock
+- kiddie stereo
+- kiddie wall clock
+- lovely bed
+- lovely dresser
+- lovely armoire
+- lovely chair
+- lovely love seat
+- lovely end table
+- lovely table
+- lovely vanity
+- lovely kitchen
+- lovely lamp
+- lovely wall clock
+- robo-bed
+- robo-dresser
+- robo-closet
+- robo-sofa
+- robo-chair
+
+## HHD Item 34.nfc
+
+- robo-table
+- robo-stereo
+- robo-TV
+- robo-clock
+- robo-lamp
+- robo-wall clock
+- polka-dot bed
+- polka-dot dresser
+- polka-dot closet
+- polka-dot chair
+- polka-dot sofa
+- polka-dot table
+- polka-dot lamp
+- polka-dot stool
+- polka-dot low table
+- polka-dot TV
+- polka-dot clock
+- snowman bed
+- snowman dresser
+- snowman wardrobe
+- snowman chair
+- snowman sofa
+- snowman table
+- snowman fridge
+- snowman TV
+- snowman clock
+- snowman lamp
+- snowman vanity
+- mush bed
+- mush dresser
+- mush closet
+- mush chair
+- mush stool
+- mush table
+- mush end table
+- mush lamp
+- mush wall lamp
+- mush TV
+- mush hanger
+- Pavé bed
+- Pavé chest
+- Pavé closet
+- Pavé sofa
+- Pavé chair
+- Pavé table
+- Pavé end table
+- Pavé bookshelf
+- Pavé bureau
+- Pavé lamp
+- Pavé clock
+- egg bed
+- egg dresser
+- egg wardrobe
+- egg chair
+- egg bench
+- egg table
+- egg stereo
+- egg toy set
+- egg clock
+- egg lamp
+- egg TV
+- spooky bed
+- spooky dresser
+- spooky wardrobe
+
+## HHD Item 35.nfc
+
+- spooky sofa
+- spooky chair
+- spooky table
+- spooky vanity
+- spooky bookcase
+- spooky clock
+- spooky lamp
+- spooky wall lamp
+- harvest bed
+- harvest dresser
+- harvest bureau
+- harvest sofa
+- harvest chair
+- harvest table
+- harvest mirror
+- harvest TV
+- harvest clock
+- harvest lamp
+- harvest wall lamp
+- Jingle bed
+- Jingle dresser
+- Jingle wardrobe
+- Jingle sofa
+- Jingle chair
+- Jingle table
+- Jingle shelves
+- Jingle piano
+- Jingle clock
+- Jingle lamp
+- Jingle TV
+- princess bed
+- princess chest
+- princess closet
+- princess sofa
+- princess chair
+- princess table
+- princess curio
+- princess dresser
+- princess cage
+- princess lamp
+- princess clock
+- Gracie bed
+- Gracie chest
+- Gracie wardrobe
+- Gracie bench
+- Gracie chair
+- Gracie low table
+- Gracie desk
+- Gracie wagon
+- Gracie shelf
+- Gracie lamp
+- Gracie wall clock
+- sweets bed
+- sweets dresser
+- sweets closet
+- sweets sofa
+- sweets chair
+- sweets table
+- sweets minitable
+- sweets bookcase
+- sweets lamp
+- sweets minilamp
+- sweets player
+- gorgeous bed
+
+## HHD Item 36.nfc
+
+- gorgeous chest
+- gorgeous closet
+- gorgeous sofa
+- gorgeous seat
+- gorgeous stool
+- gorgeous table
+- gorgeous desk
+- gorgeous counter
+- gorgeous lamp
+- gorgeous wall clock
+- minimalist bed
+- minimalist sofa
+- minimalist chair
+- minimalist dresser
+- minimalist wardrobe
+- minimalist clock
+- minimalist lamp
+- minimalist ottoman
+- minimalist table
+- minimalist minitable
+- minimalist vanity
+- golden bed
+- golden dresser
+- golden closet
+- golden chair
+- golden bench
+- golden table
+- golden clock
+- golden man
+- golden woman
+- golden screen
+- golden wall torch
+- cow skull
+- desert cactus
+- western fence
+- saddle fence
+- storefront
+- covered wagon
+- watering trough
+- tumbleweed
+- well
+- wagon wheel
+- asteroid
+- moon
+- lunar lander
+- rocket
+- lunar rover
+- satellite
+- space shuttle
+- Spaceman Sam
+- space station
+- flying saucer
+- detour arrow
+- handcart
+- iron frame
+- manhole cover
+- red cone
+- traffic cone
+- sawhorse
+- wet-road sign
+- steamroller
+- jackhammer
+- striped cone
+- cement mixer
+
+## HHD Item 37.nfc
+
+- oil barrel
+- boxing barricade
+- red corner
+- blue corner
+- neutral corner
+- judge's bell
+- boxing mat
+- ringside table
+- weight bench
+- sandbag
+- speed bag
+- birdhouse
+- Mr. Flamingo
+- Mrs. Flamingo
+- garden gnome
+- bug zapper
+- hammock
+- birdbath
+- picnic table
+- bird feeder
+- lawn chair
+- lawn mower
+- barbecue
+- backyard pool
+- sprinkler
+- tiki torch
+- elephant slide
+- stroller
+- cradle
+- baby bed
+- clackercart
+- merry-go-round
+- rocking horse
+- train set
+- wobbelina
+- dolly
+- lab bench
+- lab chair
+- medicine chest
+- florence flask
+- amazing machine
+- unknown machine
+- complex machine
+- helm
+- barrel
+- keg
+- ship cannon
+- anchor
+- ship compass
+- creepy skeleton
+- creepy cauldron
+- creepy bat stone
+- creepy stone
+- creepy coffin
+- creepy crystal
+- creepy clock
+- creepy statue
+- pawn
+- bishop
+- king
+- knight
+- queen
+- rook
+- right platform
+
+## HHD Item 38.nfc
+
+- left platform
+- podium
+- teacher's desk
+- teacher's chair
+- school desk
+- school chair
+- cubbyhole
+- chalkboard
+- mop
+- skeleton
+- anatomical model
+- clear model
+- hamster cage
+- science table
+- vaulting horse
+- ball catcher
+- high-jump mat
+- hurdle
+- scoreboard
+- folding chair
+- vision tester
+- trunk measure
+- stadiometer
+- scale
+- hospital bed
+- hospital screen
+- IV drip
+- washbasin
+- writing desk
+- writing chair
+- globe
+- office desk
+- office chair
+- office locker
+- coffeemaker
+- checkout counter
+- cash register
+- jukebox
+- siphon
+- giant dharma
+- dharma
+- mini dharma
+- Papa bear
+- Mama bear
+- Baby bear
+- Mama polar bear
+- Papa panda
+- Mama panda
+- Baby panda
+- tall cactus
+- cactus
+- round cactus
+- golf bag
+- simple armchair
+- simple love seat
+- bear pole
+- eagle pole
+- frog-woman pole
+- raven pole
+- lava lamp
+- tea table
+- hearth
+- screen
+- hibachi
+
+## HHD Item 39.nfc
+
+- tea tansu
+- paper lantern
+- paper wall lamp
+- paulownia closet
+- stair dresser
+- low screen
+- paper tiger
+- lucky frog
+- sword
+- bow
+- samurai suit
+- black katana
+- white katana
+- ninja sword
+- deer scare
+- tall lantern
+- spa chair
+- bath mat
+- bucket
+- bathtub
+- milk case
+- ice-cream case
+- washbasin
+- tea vase
+- red vase
+- blue vase
+- lucky cat
+- lefty lucky cat
+- lucky black cat
+- lucky gold cat
+- grapefruit table
+- lemon table
+- tangerine chair
+- kiwi stool
+- pear wardrobe
+- pear dresser
+- watermelon chair
+- watermelon table
+- juicy-apple TV
+- juicy-apple clock
+- lily-pad table
+- froggy chair
+- pine chair
+- pine table
+- flower chair
+- flower table
+- ponderosa bonsai
+- pine bonsai
+- mugho bonsai
+- plum bonsai
+- holly bonsai
+- azalea bonsai
+- maple bonsai
+- hawthorn bonsai
+- quince bonsai
+- jasmine bonsai
+- pothos
+- coconut palm
+- pachira
+- caladium
+- croton
+- dracaena
+- lady palm
+- aloe
+
+## HHD Item 40.nfc
+
+- rubber tree
+- snake plant
+- fan palm
+- corn plant
+- bromeliaceae
+- weeping fig
+- conga drum
+- djimbe drum
+- timpano drum
+- violin
+- cello
+- bass
+- folk guitar
+- country guitar
+- rock guitar
+- electric guitar
+- ukulele
+- ebony piano
+- upright piano
+- taiko drum
+- vibraphone
+- biwa lute
+- harp
+- metronome
+- trash can
+- garbage pail
+- garbage can
+- trash bin
+- pantheon post
+- ionian post
+- corinthian post
+- broken post
+- pyramid
+- Sphinx
+- mummy's casket
+- jomon pottery
+- tennis table
+- bowling pins
+- ball return
+- basketball hoop
+- billiard table
+- mahjong table
+- dartboard
+- pinball machine
+- arcade machine
+- tabletop game
+- stool
+- shogi board
+- go board
+- Arc de Triomphe
+- plate armor
+- Tower of Pisa
+- compass
+- box of chocolates
+- backpack
+- mountain bike
+- propane stove
+- kayak
+- lantern
+- sleeping bag
+- campfire
+- bonfire
+- TV with VCR
+- wide-screen TV
+
+## HHD Item 41.nfc
+
+- retro TV
+- kitchen sink
+- kitchen corner
+- deluxe range
+- range
+- stove
+- sink
+- tea set
+- shaved-ice maker
+- refrigerator
+- retro fridge
+- microwave
+- toaster
+- mixer
+- clothesline pole
+- doghouse
+- beach chair
+- wave breaker
+- surfboard
+- Diver Dan
+- beach table
+- treasure chest
+- life ring
+- snowboard
+- sleigh
+- snowman
+- sunflower
+- daffodil
+- gerbera
+- toilet
+- super toilet
+- men's toilet
+- game shelf
+- safe
+- deluxe washer
+- automatic washer
+- washer/dryer
+- potbelly stove
+- space heater
+- fireplace
+- radiator
+- phonograph
+- turntable
+- reel-to-reel
+- retro stereo
+- gold stereo
+- hi-fi stereo
+- high-end stereo
+- dice stereo
+- tape deck
+- CD player
+- cassette player
+- round clock
+- kitschy clock
+- antique clock
+- cube clock
+- odd clock
+- oval clock
+- owl clock
+- alarm clock
+- common chair
+- rocking chair
+- lefty desk
+- righty desk
+
+## HHD Item 42.nfc
+
+- gas pump
+- extinguisher
+- fire hydrant
+- raccoon figurine
+- barber's pole
+- candy machine
+- scarecrow
+- birdcage
+- phone box
+- outdoor bath
+- wheat field
+- computer
+- pineapple bed
+- glass-top table
+- kotatsu
+- cream sofa
+- storage case
+- clothes closet
+- claw-foot tub
+- shower
+- massage chair
+- vacuum cleaner
+- bottled ship
+- water bird
+- executive toy
+- telescope
+- mochi pestle
+- old sewing machine
+- cardboard box
+- wooden box
+- fan
+- candle
+- mini lamp
+- desk light
+- table lamp
+- throne
+- common bed
+- Block
+- Coin
+- Goal Pole
+- Fire Flower
+- Super Mushroom
+- Green Shell
+- Super Star
+- 1-Up Mushroom
+- ? Block
+- Pipe
+- Fire Bar
+- Bill Blaster
+- Yoshi's Egg
+- Triple Bananas
+- Triple Red Shells
+- kart
+- Pikmin
+- Blue Falcon
+- Master Sword
+- Arwing
+- Triforce
+- Metroid
+- S.S. Dolphin
+- jack-in-the-box
+- kadomatsu
+- kagamimochi
+- hinaningyo
+
+## HHD Item 43.nfc
+
+- big festive tree
+- festive tree
+- festive flag
+- festive candle
+- lovely phone
+- box of tissues
+- piggy bank
+- Bellpoint
+- aluminum briefcase
+- rice cake
+- dango
+- bamboo grass
+- Resetti model
+- cool globe
+- picnic basket
+- sailboat model
+- wheat bundle
+- espresso maker
+- stuffed stocking
+- snow globe
+- veggie basket
+- yut board
+- hibiscus
+- bureom
+- festive wreath
+- brown pot
+- white pot
+- tapestry
+- top
+- tokonoma
+- carp banner
+- eggplant cow
+- morning glory
+- pile of leaves
+- sand castle
+- shopping cart
+- hagoita
+- blossom lantern
+- cucumber horse
+- fedora chair
+- tteok plate
+- kimbap plate
+- shaved-ice lamp
+- flower bouquet
+- cupid bench
+- display stand
+- glass display case
+- flat display case
+- tall display case
+- museum chair
+- arrow sign
+- fancy frame
+- thermohygrometer
+- reception table
+- poster stand
+- exhibit partition
+- jellyfish lamp
+- air conditioner
+- pendulum clock
+- LED display
+- gold fish trophy
+- silver fish trophy
+- bronze fish trophy
+- gold bug trophy
+
+## HHD Item 44.nfc
+
+- silver bug trophy
+- bronze bug trophy
+- museum model
+- letter set
+- New Year's noodles
+- bell knickknack
+- pipe stool
+- cornucopia
+- pumpkin pie
+- turkey
+- afternoon-tea set
+- large bookshelf
+- stepladder
+- microscope
+- moth orchid
+- tricycle
+- shower stall
+- mic stand
+- tatami bed
+- harpsichord
+- director's chair
+- theremin
+- bunk bed
+- lovely doll
+- volleyball net
+- pink velvet stool
+- Yule log
+- fancy doll
+- fruit basket
+- poinsettia
+- hot plate
+- snow bunny
+- vintage telephone
+- record player
+- spinning wheel
+- pop-up book
+- drip pail
+- oil lamp
+- electric kettle
+- wedding cake
+- candy jar
+- holiday candle
+- fish grill
+- lily lamp
+- standing spotlight
+- small spotlight
+- stained-glass lamp
+- campfire cookware
+- small igloo
+- colorful wheel
+- vintage camera
+- small LED display
+- HHA pennant
+- silver HHA plaque
+- gold HHA plaque
+- silver HHA trophy
+- gold HHA trophy
+- gold house model
+- cat tower
+- dishwasher
+- wooden stool
+- CD shelf
+- metal guitar
+- large magazine rack
+
+## HHD Item 45.nfc
+
+- trunk
+- milk can
+- coat hanger
+- lotus lamp
+- sewing machine
+- dollhouse
+- slushie machine
+- computer desk
+- potty
+- kettle
+- homework set
+- salad bar
+- rope partition
+- washing machine
+- aroma pot
+- game-show stand
+- soda case
+- donut stool
+- steamed-bun case
+- clay furnace
+- flat-screen TV
+- bingo wheel
+- editor's chair
+- painting set
+- editor's desk
+- revolving spice rack
+- bathroom sink
+- incense burner
+- small magazine rack
+- rice cooker
+- star projector
+- conveyor-belt sushi
+- star globe
+- whiteboard
+- peacock chair
+- whirlpool bath
+- kitchen island
+- cushion
+- sanshin
+- effects rack
+- humidifier
+- time clock
+- crane game
+- music stand
+- ironing set
+- rolling suitcase
+- planter
+- dentist's chair
+- amp
+- loom
+- lazy-Susan table
+- pickle jar
+- TV camera
+- buffet server
+- freezer
+- ceramic hot pot
+- stewpot
+- laptop
+- server
+- copy machine
+- drum set
+- soda fountain
+- water cooler
+- upright vacuum
+
+## HHD Item 46.nfc
+
+- makeup case
+- double-neck guitar
+- Virtual Boy
+- popcorn machine
+- DJ's turntable
+- flashy-flower sign
+- soft-serve lamp
+- home-computer rack
+- pipe organ
+- karaoke system
+- simple kettle
+- digital-photo frame
+- pot rack
+- wall flowerpot
+- display shelf
+- stained glass
+- school speaker
+- blue certificate
+- hospital TV
+- cuckoo clock
+- wall fan
+- mobile
+- breaker
+- yellow certificate
+- ventilation fan
+- life preserver
+- festival lantern
+- surveillance camera
+- exit sign
+- wall-mounted speaker
+- sconce
+- bathroom stall
+- portable toilet
+- elder mask
+- ogre mask
+- female mask
+- spiderweb clock
+- caterpillar sofa
+- beetle chair
+- stag-beetle chair
+- honeybee chest
+- firefly lamp
+- mini butterfly table
+- ladybug chair
+- snail clock
+- cicada stereo
+- sea-anemone bed
+- squid chair
+- crab clock
+- football-fish lamp
+- octopus chair
+- red-snapper chair
+- puffer-fish TV
+- dab table
+- flounder table
+- raccoon wall clock
+- tall mini cactus
+- mini cactus
+- round mini cactus
+- exercise bike
+- butterfly machine
+- lat pulldown machine
+- treadmill
+- bread box
+
+## HHD Item 47.nfc
+
+- chaise lounge
+- chocolate fountain
+- box sofa
+- box corner sofa
+- lunch tray
+- hourglass
+- boxed figurine
+- miniature car
+- mini circuit
+- capsule-toy machine
+- bilboquet
+- foosball table
+- slide puzzle
+- egg basket
+- partition screen
+- typewriter
+- sleek sideboard
+- sleek stereo
+- sleek bed
+- sleek sofa
+- sleek chair
+- sleek dresser
+- sleek closet
+- sleek clock
+- sleek lamp
+- sleek table
+- sleek side table
+- modern wood bed
+- modern wood sofa
+- modern wood chair
+- modern wood chest
+- modern wood closet
+- modern wood clock
+- modern wood lamp
+- modern wood stool
+- modern wood table
+- modern wood shelf
+- modern wood TV
+- mermaid bed
+- mermaid sofa
+- mermaid chair
+- mermaid dresser
+- mermaid closet
+- mermaid clock
+- mermaid vanity
+- mermaid lamp
+- mermaid screen
+- mermaid shelf
+- mermaid table
+- ice dresser
+- ice closet
+- ice table
+- ice chair
+- ice side table
+- ice lamp
+- ice shelf
+- ice sofa
+- ice bed
+- ice clock
+- ice vanity
+- rococo candlestick
+- rococo bed
+- rococo shelf
+- rococo sofa
+
+## HHD Item 48.nfc
+
+- rococo chair
+- rococo dresser
+- rococo wardrobe
+- rococo clock
+- rococo vanity
+- rococo lamp
+- rococo table
+- alpine bed
+- alpine sofa
+- alpine chair
+- alpine dresser
+- alpine closet
+- alpine lamp
+- alpine panel
+- alpine shelf
+- large alpine table
+- alpine low table
+- alpine kitchen cart
+- astro CD player
+- astro bed
+- astro sofa
+- astro chair
+- astro dresser
+- astro closet
+- astro clock
+- astro table
+- astro TV
+- astro shelf
+- astro lamp
+- card tower
+- card bed
+- card sofa
+- card chair
+- card dresser
+- card closet
+- card wall clock
+- card lamp
+- card screen
+- card shelf
+- card table
+- stripe dresser
+- stripe lamp
+- stripe closet
+- stripe TV
+- stripe table
+- stripe sofa
+- stripe shelf
+- stripe clock
+- stripe bed
+- stripe bathroom sink
+- stripe chair
+- sloppy bed
+- sloppy sofa
+- sloppy clock
+- sloppy chair
+- sloppy table
+- sloppy closet
+- sloppy sink
+- sloppy lamp
+- sloppy stereo
+- sloppy TV
+- sloppy dresser
+- beacon fire
+- circle banner
+
+## HHD Item 49.nfc
+
+- general's fan
+- hedge standee
+- grass standee
+- mountain standee
+- tree standee
+- cacao tree
+- drinking fountain
+- potted ivy
+- genie's lamp
+- boomerang
+- neon sign
+- Rooster of Barcelos
+- Dala horse
+- dream catcher
+- skeleton figurine
+- post-office poster
+- shamrock clock
+- red-tasseled lantern
+- hula doll
+- moai statue
+- tribal mask
+- Merlion
+- pagoda
+- mermaid statue
+- Mouth of Truth
+- Manneken Pis
+- matryoshka
+- samgyetang
+- Eiffel Tower
+- Jolly Roger
+- vintage telescope
+- pirate's armor
+- marshmallow chair
+- cardboard table
+- cardboard chair
+- cardboard sofa
+- cardboard closet
+- cardboard bed
+- zodiac rat
+- zodiac ox
+- zodiac tiger
+- zodiac rabbit
+- zodiac dragon
+- zodiac snake
+- zodiac horse
+- zodiac goat
+- zodiac monkey
+- zodiac rooster
+- zodiac dog
+- zodiac boar
+- wall-mounted monitor
+- hologram machine
+- space captain's seat
+- crew member's seat
+- space console
+- large space console
+- small space console
+- captain's monitor
+- crew's monitor
+- spherical radar
+- chocolate cake
+- cream and sugar
+- coffee cup
+- dessert case
+
+## HHD Item 50.nfc
+
+- coffee grinder
+- birthday table
+- birthday candles
+- birthday sign
+- birthday cake
+- lift chair
+- snowman matryoshka
+- Ten Billion Barrel
+- curling stone
+- pepper mill
+- sketchbook
+- toy camera
+- Kinderdijk windmill
+- tuk-tuk
+- world map
+- bobsled
+- slalom gate
+- camp stove
+- ski rack
+- sitar
+- Ayers Rock
+- smoker
+- Gaudí's lizard
+- songpyeon
+- bagpipes
+- Big Ben
+- snow machine
+- twelve-grape plate
+- sea globe
+- nutcracker
+- Wii Balance Board
+- holiday stocking
+- berliner
+- snowmobile
+- love tester
+- Statue of Liberty
+- patchwork chair
+- patchwork dresser
+- patchwork lamp
+- patchwork table
+- patchwork sofa
+- general's stool
+- shogi piece
+- board game piece
+- balloon TV
+- balloon sofa
+- balloon clock
+- balloon lamp
+- balloon table
+- balloon bed
+- balloon chair
+- balloon dresser
+- dog lamp
+- balloon closet
+- balloon vanity
+- lily record player
+- rose sofa
+- sunflower stereo
+- tulip dresser
+- violet screen
+- hydrangea bed
+- azalea stool
+- pansy table
+- cosmos fan
+
+## HHD Item 51.nfc
+
+- hibiscus clock
+- Ultra Hand
+- Ultra Scope
+- Ultra Machine
+- giraffe ruler
+- vintage radio
+- zero lamp
+- one lamp
+- two lamp
+- three lamp
+- four lamp
+- five lamp
+- six lamp
+- seven lamp
+- eight lamp
+- nine lamp
+- Aries rocking chair
+- Taurus bathtub
+- Gemini closet
+- Cancer table
+- Leo sculpture
+- Virgo harp
+- Libra scale
+- Scorpio lamp
+- Sagittarius arrow
+- Capricorn ornament
+- Aquarius urn
+- Pisces lamp
+- sunrise lamp
+- aurora screen
+- sprout table
+- cherry-blossom clock
+- leaf bed
+- rainbow screen
+- palm-tree lamp
+- fireworks table
+- full-moon vanity
+- rice-plant bed
+- autumn-leaf chair
+- tree-stump chair
+- corkboard
+- kitchen scale
+- sushi platter
+- kokeshi doll
+- 24-hour-shop model
+- in-store Bellpoint
+- soft-drink display
+- sandwich display
+- 24-hour-shop sign
+- 24-hour-shop counter
+- barbecue bed
+- notebook wardrobe
+- eraser sofa
+- notebook bed
+- pencil screen
+- sticker tape liner
+- set square table
+- toy piano
+- exam table
+- office phone
+- desk bell
+- wooden bucket
+- coconut juice
+- ramen cup
+
+## HHD Item 52.nfc
+
+- firewood
+- burger meal
+- candelabra
+- metal box
+- standing sink
+- ring
+- air purifier
+- classic screen
+- sushi tray
+- synthesizer
+- toolbox
+- towel basket
+- hanging strap
+- yarn basket
+- basic teacher's desk
+- train seat
+- pizza
+- plant partition
+- ramen
+- tart
+- fancy tea set
+- cube sculpture
+- camping cot
+- zen bell
+- bell
+- zen bench
+- log bench
+- modern bench
+- rafflesia
+- metal bench
+- zen clock
+- park clock
+- drinking fountain
+- jungle gym
+- illuminated heart
+- illuminated tree
+- streetlamp
+- round streetlight
+- toy hammer
+- pile of pipes
+- water pump
+- pointy-hat scarecrow
+- instrument shelter
+- tire toy
+- traffic signal
+- illuminated clock
+- fluorescent light
+- zen light
+- chandelier
+- round light fixture
+- geyser
+- ringtoss
+- moss ball
+- hose reel
+- greenhouse box
+- tractor
+- wooden bear
+- lucky doll
+- zen desk
+- ikebana display
+- rolling cart
+- antique shelf
+- conveyor belt
+- air pump
+
+## HHD Item 53.nfc
+
+- stack of books
+- bread basket
+- light breakfast
+- hearty breakfast
+- range hood
+- hanging lightbulb
+- pancakes
+- ice-cream display
+- tin watering can
+- first-aid kit
+- milk canister
+- ceiling fan
+- rice balls
+- pile of cash
+- stainless-steel pitcher
+- sushi container
+- rice bales
+- pitcher plant
+- futon mattress
+- zen tea set
+- morning-glory vines
+- Boston bag
+- kick scooter
+- lunch box
+- milk carton
+- bistro table
+- plastic canister
+- forklift
+- pylon set
+- barbell
+- laboratory capsule
+- file cabinet (L)
+- file cabinet (M)
+- rolling file cart
+- accordion screen
+- metal-and-wood chair
+- jail bars
+- modern cash register
+- changing room
+- roasted dino meat
+- Villager statue
+- wooden duckboards
+- sparrow's nest
+- swinging bench
+- desktop TV
+- platform
+- balance beam
+- exercise ball
+- table with cloth
+- dinnerware
+- drafting table
+- hanger rack
+- pastel low table
+- fish on board
+- menu chalkboard
+- wooden counter
+- unicycle
+- towel rack
+- metal-and-wood table
+- rolling closet
+- metal flagpole
+- cornstalks
+- bowl sink
+- solar panel
+
+## HHD Item 54.nfc
+
+- zen garden
+- lighthouse
+- drilling rig
+- ball
+- glass partition
+- cypress plant
+- flower display case
+- tong-and-tray stand
+- potato gratin
+- disco ball
+- umbrella stand
+- metal can
+- salon mirror stand
+- garden chair
+- chair sculpture
+- outdoor chair
+- wood bench
+- fairy-tale bench
+- yellow bench
+- massive cake
+- modern clock
+- fairy-tale clock
+- shopping bag
+- fountain
+- statue fountain
+- zen streetlight
+- modern streetlight
+- streetlight
+- fairy-tale streetlight
+- tower
+- stone tablet
+- parabolic antenna
+- pool
+- large pyramid
+- rack of rice
+- yield sign
+- lotus pond
+- zen phone stand
+- stadium light
+- Stonehenge
+- round topiary
+- square topiary
+- tulip topiary
+- stone well
+- video screen
+- windmill
+- wind turbine
+- flower bed
+- sandbox
+- garden table
+- do-not-enter sign
+- handwashing area
+- book stands
+- operating-room cart
+- modern hospital bed
+- modern office chair
+- trash bags
+- lecture-hall seats
+- lecture-hall desk
+- meeting-room table
+- box-shaped seat
+- worktable
+- minifridge
+- stretcher
+
+## HHD Item 55.nfc
+
+- office cabinet
+- crayons
+- black phone
+- cable spool
+- baseball set
+- office clock
+- flower wreath
+- succulent plant
+- meeting-room chair
+- public telephone
+- beauty-salon cart
+- money box
+- zen low table
+- operating table
+- merchandise table
+- doctor's desk
+- tennis racket
+- cash tray
+- desktop mic
+- tire stack
+- school locker
+- coin locker
+- lectern with mic
+- gift pile
+- zen backpack
+- fancy display case
+- popcorn
+- counter seat
+- zen chair
+- glass screen
+- bussing station
+- round-cloth table
+- waiting-room bench
+- square minitable
+- metal-rim table
+- green net
+- wood-plank table
+- plastic file box
+- candy house
+- iron garden chair
+- iron garden table
+- iron garden bench
+- glass-shade lamp
+- kiddie meal
+- wall-mounted TV
+- billboard
+- waterpot
+- stack of clothes
+- snack machine
+- alto saxophone
+- retro sink
+- UFO
+- perfume bottles
+- cans
+- propane tanks
+- giant ant
+- zen screen
+- bamboo fence
+- mountain
+- massage recliner
+- zen barrel
+- reception chair
+- vine lamp
+- drink machine
+
+## HHD Item 56.nfc
+
+- snare drum
+- Wii U console
+- document stack
+- imperial chair
+- fruit drink
+- shaved ice
+- theater seat
+- garbage bin
+- slipper rack
+- teppanyaki grill
+- iceberg
+- red cash register
+- garland
+- brick oven
+- handbag
+- silver mic
+- barbecue spit
+- organ
+- xylophone
+- trumpet
+- sound mixer
+- kitchen counter
+- kitchen refrigerator
+- sushi menu
+- stained-glass light
+- electric bass
+- cafeteria table
+- serving cart
+- reception counter
+- outdoor sign
+- stacked magazines
+- item box
+- narrow clock
+- pen-case chair
+- wood display stand
+- casual display stand
+- fancy display stand
+- basic display stand
+- store shelf
+- floor light
+- brown seat
+- lunch pack
+- set lunch
+- skateboard rack
+- white office desk
+- basic trash can
+- salon chair
+- daimyo's tray
+- single rose
+- mug
+- record box
+- cruiser bike
+- big amp
+- video camera
+- speaker
+- Wyvern eggs
+- kitchen dishwasher
+- medicine cabinet
+- sausage
+- chain divider
+- garden tools
+- tool cart
+- soccer goal
+- hanging menu
+
+## HHD Item 57.nfc
+
+- wood-shade lamp
+- pop-shade lamp
+- ceiling spotlight
+- the sun
+- electric sign
+- round electric sign
+- Poogie
+- desk mirror
+- locker stack
+- garden faucet
+- barrel planter
+- mountain of bills
+- giant stewpot
+- garden rock
+- tall garden rock
+- natural bench
+- natural chair
+- natural table
+- natural low table
+- natural lamp
+- elegant chair
+- elegant bench
+- compact car
+- sports car
+- fish-and-chips
+- pasta
+- cheese
+- tacos
+- kaiseki meal
+- ivy partition
+- hunter
+- cup of tea
+- donburi
+- simple panel
+- cutting-board set
+- bread-making set
+- kitchen stove
+- sample case
+- Red Wing
+- hanging-plant holder
+- Felyne Guardian
+- carriage
+- counter table
+- jewelry case
+- decoy duck
+- curry plate
+- modern wash station
+- hunter's hive
+- zen note card
+- decorative plate
+- tile screen
+- floor monitor
+- strapped books
+- board game
+- tool shelf
+- bath set
+- EKG machine
+- zen cupboard
+- Casablanca lilies
+- udon soup
+- donut box
+- blowfish sashimi
+- watermelon
+- steamed lobster
+
+## HHD Item 58.nfc
+
+- spinning tea cups
+- omelet
+- paella
+- retro screen
+- bamboo bench
+- hunter's cart
+- Palico board
+- giant teddy bear
+- robot hero
+- monitor tower
+- tent
+- bus-stop stand
+- shoe locker
+- propeller plane
+- reception window
+- warming buffet
+- cupcake
+- glass teapot
+- coffeemaker
+- submarine
+- luxury car
+- floor seat
+- enamel lamp
+- imperial pot
+- console table
+- round pillow
+- hanging chair
+- garden lantern
+- bathroom shelf
+- scooter
+- round cushion
+- ivy garland
+- honeycomb balls
+- information sign
+- basket chair
+- zen modern lamp
+- zen cushion
+- flower chandelier
+- bird mobile
+- metal grid lamp
+- fancy chandelier
+- cloth-shade lamp
+- imperial lamp
+- hanging shelf
+- scattered papers
+- large tea table
+- New Nintendo 3DS
+- New Nintendo 3DS XL
+- Wii U Station
+- Nintendo 3DS Station
+- Wii U game shelf
+- Nintendo 3DS shelf
+- amiibo shelf
+- Disk Writer
+- giant Game Boy
+- 24-hour-shop light
+- sushi bench
+- shop ice-cream case
+- shopping baskets
+- 24-hour-shop banner
+- hot-snack case
+- shop coffee machine
+- large egg
+- inflatable Resetti
+
+## HHD Item 59.nfc
+
+- cardboard boxes
+- cardboard boxes
+- cardboard boxes
+- cardboard boxes
+- cardboard boxes
+- cardboard boxes
+- cardboard boxes
+- cardboard boxes
+- Gracie rug S
+- Gracie rug M
+- Gracie rug L
+- tatami rug S
+- tatami rug M
+- tatami rug L
+- tapestry carpet S
+- tapestry carpet M
+- tapestry carpet L
+- Persian rug S
+- Persian rug M
+- Persian rug L
+- cowhide rug S
+- cowhide rug M
+- cowhide rug L
+- kiddie rug S
+- kiddie rug M
+- kiddie rug L
+- exotic rug S
+- exotic rug M
+- exotic rug L
+- harvest rug S
+- harvest rug M
+- harvest rug L
+- princess rug S
+- princess rug M
+- princess rug L
+- gorgeous rug S
+- gorgeous rug M
+- gorgeous rug L
+- picnic blanket S
+- picnic blanket M
+- picnic blanket L
+- green rug S
+- green rug M
+- green rug L
+- heart rug S
+- heart rug M
+- heart rug L
+- green round rug S
+- green round rug M
+- green round rug L
+- fluffy rug S
+- fluffy rug M
+- fluffy rug L
+- sloppy rug S
+- sloppy rug M
+- sloppy rug L
+- shanty mat S
+- shanty mat M
+- shanty mat L
+- special-event rug S
+- special-event rug M
+- special-event rug L
+- flower rug S
+- flower rug M
+
+## HHD Item 60.nfc
+
+- flower rug L
+- egg rug S
+- egg rug M
+- egg rug L
+- black square rug S
+- black square rug M
+- black square rug L
+- lovely rug S
+- lovely rug M
+- lovely rug L
+- tree-stump rug S
+- tree-stump rug M
+- tree-stump rug L
+- Pavé rug S
+- Pavé rug M
+- Pavé rug L
+- spooky rug S
+- spooky rug M
+- spooky rug L
+- Jingle rug S
+- Jingle rug M
+- Jingle rug L
+- playroom rug S
+- playroom rug M
+- playroom rug L
+- pastel-dot rug S
+- pastel-dot rug M
+- pastel-dot rug L
+- opulent rug S
+- opulent rug M
+- opulent rug L
+- red rug S
+- red rug M
+- red rug L
+- ornate rug S
+- ornate rug M
+- ornate rug L
+- fancy rug S
+- fancy rug M
+- fancy rug L
+- exquisite rug S
+- exquisite rug M
+- exquisite rug L
+- tent rug S
+- tent rug M
+- tent rug L
+- study rug S
+- study rug M
+- study rug L
+- citrus rug S
+- citrus rug M
+- citrus rug L
+- tropical rug S
+- tropical rug M
+- tropical rug L
+- old rug S
+- old rug M
+- old rug L
+- creepy rug S
+- creepy rug M
+- creepy rug L
+- ladybug rug S
+- ladybug rug M
+- ladybug rug L
+
+## HHD Item 61.nfc
+
+- card rug S
+- card rug M
+- card rug L
+- flower pop rug S
+- flower pop rug M
+- flower pop rug L
+- Earth rug S
+- Earth rug M
+- Earth rug L
+- alpine rug S
+- alpine rug M
+- alpine rug L
+- stage-floor rug S
+- stage-floor rug M
+- stage-floor rug L
+- wood-stage rug S
+- wood-stage rug M
+- wood-stage rug L
+- round stage rug S
+- round stage rug M
+- round stage rug L
+- soccer-field rug S
+- soccer-field rug M
+- soccer-field rug L
+- cute rug S
+- cute rug M
+- cute rug L
+- block rug S
+- block rug M
+- block rug L
+- tearoom rug S
+- tearoom rug M
+- tearoom rug L
+- ranch rug S
+- ranch rug M
+- ranch rug L
+- bamboo rug S
+- bamboo rug M
+- bamboo rug L
+- striped rug S
+- striped rug M
+- striped rug L
+- tartan rug S
+- tartan rug M
+- tartan rug L
+- modern rug S
+- modern rug M
+- modern rug L
+- geometric rug S
+- geometric rug M
+- geometric rug L
+- wood-deck rug S
+- wood-deck rug M
+- wood-deck rug L
+- brick rug S
+- brick rug M
+- brick rug L
+- pavement rug S
+- pavement rug M
+- pavement rug L
+- notebook rug S
+- notebook rug M
+- notebook rug L
+- magic circle rug S
+
+## HHD Item 62.nfc
+
+- magic circle rug M
+- magic circle rug L
+- helipad rug S
+- helipad rug M
+- helipad rug L
+- cookie rug S
+- cookie rug M
+- cookie rug L
+- white square rug S
+- white square rug M
+- white square rug L
+- brown square rug S
+- brown square rug M
+- brown square rug L
+- cow-print rug S
+- cow-print rug M
+- cow-print rug L
+- zebra-print rug S
+- zebra-print rug M
+- zebra-print rug L
+- leopard-print rug S
+- leopard-print rug M
+- leopard-print rug L
+- giraffe-print rug S
+- giraffe-print rug M
+- giraffe-print rug L
+- tiger-print rug S
+- tiger-print rug M
+- tiger-print rug L
+- round yellow rug S
+- round yellow rug M
+- round yellow rug L
+- round blue rug S
+- round blue rug M
+- round blue rug L
+- round red rug S
+- round red rug M
+- round red rug L
+- rock-garden rug S
+- rock-garden rug M
+- rock-garden rug L
+- display rug 1 S
+- display rug 1 M
+- display rug 2 S
+- display rug 2 M
+- rare display rug 1 S
+- rare display rug 1 M
+- rare display rug 3 S
+- rare display rug 3 M
+- rare display rug 2 S
+- rare display rug 2 M
+- tile display rug 1 S
+- tile display rug 1 M
+- tile display rug 2 S
+- tile display rug 2 M
+- posh display rug 1 S
+- posh display rug 1 M
+- posh display rug 2 S
+- posh display rug 2 M
+- posh display rug 3 S
+- posh display rug 3 M
+- dynamic painting
+- solemn painting
+- quaint painting
+
+## HHD Item 63.nfc
+
+- basic painting
+- famous painting
+- perfect painting
+- amazing painting
+- nice painting
+- moving painting
+- common painting
+- flowery painting
+- warm painting
+- jolly painting
+- fine painting
+- scary painting
+- proper painting
+- neutral painting
+- worthy painting
+- calm painting
+- moody painting
+- wistful painting
+- serene painting
+- scenic painting
+- wild painting
+- graceful painting
+- beautiful statue
+- valiant statue
+- gallant statue
+- robust statue
+- great statue
+- mystic statue
+- ancient statue
+- motherly statue
+- dynamic painting?
+- solemn painting?
+- quaint painting?
+- basic painting?
+- famous painting?
+- amazing painting?
+- moving painting?
+- jolly painting?
+- scary painting?
+- neutral painting?
+- wistful painting?
+- serene painting?
+- wild painting?
+- graceful painting?
+- beautiful statue?
+- valiant statue?
+- gallant statue?
+- robust statue?
+- great statue?
+- mystic statue?
+- ancient statue?
+- motherly statue?
+- dynamic painting
+- solemn painting
+- quaint painting
+- basic painting
+- famous painting
+- perfect painting
+- amazing painting
+- nice painting
+- moving painting
+- common painting
+- flowery painting
+- warm painting
+
+## HHD Item 64.nfc
+
+- jolly painting
+- fine painting
+- scary painting
+- proper painting
+- neutral painting
+- worthy painting
+- calm painting
+- moody painting
+- wistful painting
+- serene painting
+- scenic painting
+- wild painting
+- graceful painting
+- dynamic painting?
+- solemn painting?
+- quaint painting?
+- basic painting?
+- famous painting?
+- amazing painting?
+- moving painting?
+- jolly painting?
+- scary painting?
+- neutral painting?
+- wistful painting?
+- serene painting?
+- wild painting?
+- graceful painting?
+- amber
+- ammonite
+- coprolite
+- dinosaur egg
+- fern fossil
+- dinosaur track
+- archaeopteryx
+- Peking man
+- shark tooth
+- trilobite
+- T. rex skull
+- T. rex torso
+- T. rex tail
+- tricera skull
+- tricera torso
+- tricera tail
+- mammoth skull
+- mammoth torso
+- ankylo skull
+- ankylo torso
+- ankylo tail
+- apato skull
+- apato torso
+- apato tail
+- dimetrodon skull
+- dimetrodon torso
+- dimetrodon tail
+- iguanodon skull
+- iguanodon torso
+- iguanodon tail
+- sabertooth skull
+- sabertooth torso
+- pachysaurus skull
+- pachysaurus torso
+- pachysaurus tail
+- parasaur skull
+- parasaur torso
+
+## HHD Item 65.nfc
+
+- parasaur tail
+- diplo skull
+- diplo neck
+- diplo chest
+- diplo hip
+- diplo tail
+- plesio skull
+- plesio neck
+- plesio torso
+- stego skull
+- stego torso
+- stego tail
+- ptera skull
+- ptera left wing
+- ptera right wing
+- ichthyo skull
+- ichthyo torso
+- raptor skull
+- raptor torso
+- styraco skull
+- styraco torso
+- styraco tail
+- spino skull
+- spino torso
+- spino tail
+- megacero skull
+- megacero torso
+- megacero tail
+- archelon skull
+- archelon torso
+- T. rex model
+- tricera model
+- mammoth model
+- ankylo model
+- apato model
+- dimetrodon model
+- iguanodon model
+- sabertooth model
+- pachysaurus model
+- parasaur model
+- diplo model
+- plesio model
+- stego model
+- ptera model
+- ichthyo model
+- raptor model
+- styraco model
+- spino model
+- megacero model
+- archelon model
+- pic of Cyrano
+- pic of Antonio
+- pic of Pango
+- pic of Anabelle
+- pic of Annalisa
+- pic of Olaf
+- pic of Teddy
+- pic of Pinky
+- pic of Curt
+- pic of Chow
+- pic of Nate
+- pic of Groucho
+- pic of Tutu
+- pic of Grizzly
+
+## HHD Item 66.nfc
+
+- pic of Paula
+- pic of Charlise
+- pic of Beardo
+- pic of Klaus
+- pic of Jay
+- pic of Robin
+- pic of Anchovy
+- pic of Twiggy
+- pic of Jitters
+- pic of Midge
+- pic of Lucha
+- pic of Jacques
+- pic of Peck
+- pic of Sparro
+- pic of Angus
+- pic of Rodeo
+- pic of T-Bone
+- pic of Coach
+- pic of Vic
+- pic of Bob
+- pic of Mitzi
+- pic of Rosie
+- pic of Olivia
+- pic of Kiki
+- pic of Tangy
+- pic of Punchy
+- pic of Purrl
+- pic of Moe
+- pic of Kabuki
+- pic of Kid Cat
+- pic of Monique
+- pic of Tabby
+- pic of Stinky
+- pic of Kitty
+- pic of Tom
+- pic of Merry
+- pic of Felicity
+- pic of Lolly
+- pic of Ankha
+- pic of Rudy
+- pic of Katt
+- pic of Felyne
+- pic of Bluebear
+- pic of Maple
+- pic of Poncho
+- pic of Pudge
+- pic of Kody
+- pic of Stitches
+- pic of Vladimir
+- pic of Cheri
+- pic of Pekoe
+- pic of Chester
+- pic of Barold
+- pic of Tammy
+- pic of Goose
+- pic of Benedict
+- pic of Egbert
+- pic of Ava
+- pic of Becky
+- pic of Knox
+- pic of Broffina
+- pic of Ken
+- pic of Patty
+- pic of Tipper
+
+## HHD Item 67.nfc
+
+- pic of Naomi
+- pic of Alfonso
+- pic of Alli
+- pic of Del
+- pic of Sly
+- pic of Gayle
+- pic of Drago
+- pic of Fauna
+- pic of Bam
+- pic of Zell
+- pic of Bruce
+- pic of Deirdre
+- pic of Lopez
+- pic of Fuchsia
+- pic of Beau
+- pic of Diana
+- pic of Erik
+- pic of Goldie
+- pic of Butch
+- pic of Lucky
+- pic of Biskit
+- pic of Bones
+- pic of Portia
+- pic of Walker
+- pic of Daisy
+- pic of Cookie
+- pic of Maddie
+- pic of Mac
+- pic of Marcel
+- pic of Benjamin
+- pic of Cherry
+- pic of Shep
+- pic of Bill
+- pic of Joey
+- pic of Pate
+- pic of Maelle
+- pic of Deena
+- pic of Pompom
+- pic of Mallary
+- pic of Freckles
+- pic of Derwin
+- pic of Drake
+- pic of Scoot
+- pic of Miranda
+- pic of Gloria
+- pic of Molly
+- pic of Quillson
+- pic of Opal
+- pic of Dizzy
+- pic of Big Top
+- pic of Eloise
+- pic of Margie
+- pic of Axel
+- pic of Tucker
+- pic of Tia
+- pic of Lily
+- pic of Ribbot
+- pic of Frobert
+- pic of Camofrog
+- pic of Drift
+- pic of Wart Jr.
+- pic of Puddles
+- pic of Jeremiah
+- pic of Cousteau
+
+## HHD Item 68.nfc
+
+- pic of Prince
+- pic of Jambette
+- pic of Gigi
+- pic of Croque
+- pic of Diva
+- pic of Henry
+- pic of Chevre
+- pic of Nan
+- pic of Gruff
+- pic of Velma
+- pic of Kidd
+- pic of Pashmina
+- pic of Cesar
+- pic of Peewee
+- pic of Boone
+- pic of Louie
+- pic of Violet
+- pic of Al
+- pic of Rocket
+- pic of Hans
+- pic of Hamlet
+- pic of Apple
+- pic of Graham
+- pic of Rodney
+- pic of Soleil
+- pic of Clay
+- pic of Flurry
+- pic of Hamphrey
+- pic of Rocco
+- pic of Bubbles
+- pic of Bertha
+- pic of Biff
+- pic of Harry
+- pic of Hippeux
+- pic of Buck
+- pic of Victoria
+- pic of Savannah
+- pic of Elmer
+- pic of Roscoe
+- pic of Winnie
+- pic of Ed
+- pic of Peaches
+- pic of Annalise
+- pic of Clyde
+- pic of Colton
+- pic of Papi
+- pic of Julian
+- pic of Filly
+- pic of Yuka
+- pic of Alice
+- pic of Melba
+- pic of Sydney
+- pic of Ozzie
+- pic of Canberra
+- pic of Lyman
+- pic of Eugene
+- pic of Kitt
+- pic of Mathilda
+- pic of Carrie
+- pic of Astrid
+- pic of Sylvia
+- pic of Walt
+- pic of Rooney
+- pic of Marcie
+
+## HHD Item 69.nfc
+
+- pic of Bud
+- pic of Elvis
+- pic of Mott
+- pic of Rory
+- pic of Lionel
+- pic of Nana
+- pic of Simon
+- pic of Tammi
+- pic of Monty
+- pic of Elise
+- pic of Flip
+- pic of Shari
+- pic of Deli
+- pic of Dora
+- pic of Limberg
+- pic of Bella
+- pic of Bree
+- pic of Samson
+- pic of Rod
+- pic of Rizzo
+- pic of Anicotti
+- pic of Broccolo
+- pic of Moose
+- pic of Bettina
+- pic of Greta
+- pic of Penelope
+- pic of Chadder
+- pic of Octavian
+- pic of Marina
+- pic of Zucker
+- pic of Queenie
+- pic of Gladys
+- pic of Cranston
+- pic of Phil
+- pic of Blanche
+- pic of Flora
+- pic of Phoebe
+- pic of Apollo
+- pic of Amelia
+- pic of Pierce
+- pic of Avery
+- pic of Frank
+- pic of Sterling
+- pic of Keaton
+- pic of Celia
+- pic of Aurora
+- pic of Roald
+- pic of Cube
+- pic of Hopper
+- pic of Friga
+- pic of Gwen
+- pic of Puck
+- pic of Boomer
+- pic of Iggly
+- pic of Tex
+- pic of Flo
+- pic of Sprinkle
+- pic of Curly
+- pic of Truffles
+- pic of Rasher
+- pic of Hugh
+- pic of Lucy
+- pic of Crackle
+- pic of Cobb
+
+## HHD Item 70.nfc
+
+- pic of Peggy
+- pic of Gala
+- pic of Chops
+- pic of Kevin
+- pic of Pancetti
+- pic of Agnes
+- pic of Bunnie
+- pic of Dotty
+- pic of Coco
+- pic of Snake
+- pic of Gaston
+- pic of Gabi
+- pic of Pippy
+- pic of Tiffany
+- pic of Genji
+- pic of Ruby
+- pic of Doc
+- pic of Claude
+- pic of Francine
+- pic of Chrissy
+- pic of O'Hare
+- pic of Carmen
+- pic of Bonbon
+- pic of Cole
+- pic of Mira
+- pic of Tank
+- pic of Rhonda
+- pic of Merengue
+- pic of Renée
+- pic of Vesta
+- pic of Baabara
+- pic of Eunice
+- pic of Willow
+- pic of Curlos
+- pic of Wendy
+- pic of Timbra
+- pic of Frita
+- pic of Muffy
+- pic of Pietro
+- pic of Peanut
+- pic of Blaire
+- pic of Filbert
+- pic of Pecan
+- pic of Nibbles
+- pic of Agent S
+- pic of Caroline
+- pic of Sally
+- pic of Static
+- pic of Mint
+- pic of Ricky
+- pic of Cally
+- pic of Poppy
+- pic of Sheldon
+- pic of Marshal
+- pic of Hazel
+- pic of Rolf
+- pic of Rowan
+- pic of Bangle
+- pic of Leonardo
+- pic of Claudia
+- pic of Bianca
+- pic of Chief
+- pic of Lobo
+- pic of Wolfgang
+
+## HHD Item 71.nfc
+
+- pic of Whitney
+- pic of Freya
+- pic of Fang
+- pic of Skye
+- pic of Kyle
+- pic of Cyrus
+- pic of Reese
+- pic of Chip
+- pic of Phineas
+- pic of Joan
+- pic of Katrina
+- pic of Nat
+- pic of Saharah
+- pic of K.K.
+- pic of Redd
+- pic of Gracie
+- pic of Labelle
+- pic of Mabel
+- pic of Sable
+- pic of Grams
+- pic of Leilani
+- pic of Kapp'n
+- pic of Leila
+- pic of Katie
+- pic of Tommy
+- pic of Timmy
+- pic of Blanca
+- pic of Porter
+- pic of Don
+- pic of Resetti
+- pic of Lottie
+- pic of Lyle
+- pic of Blathers
+- pic of Celeste
+- pic of Pavé
+- pic of Pelly
+- pic of Phyllis
+- pic of Brewster
+- pic of Jack
+- pic of Booker
+- pic of Pete
+- pic of Copper
+- pic of Harriet
+- pic of Zipper
+- pic of Tom Nook
+- pic of Gulliver
+- pic of Pascal
+- pic of Kicks
+- pic of Leif
+- pic of Jingle
+- pic of Isabelle
+- pic of Digby
+- pic of Luna
+- pic of Tortimer
+- pic of Franklin
+- pic of Shrunk
+- pic of Wendell
+- pic of Rover
+- bunny r. balloon
+- bunny o. balloon
+- bunny y. balloon
+- bunny g. balloon
+- bunny c. balloon
+- bunny b. balloon
+
+## HHD Item 72.nfc
+
+- bunny i. balloon
+- bunny p. balloon
+- red balloon
+- orange balloon
+- yellow balloon
+- green balloon
+- cyan balloon
+- blue balloon
+- indigo balloon
+- pink balloon
+- heart r. balloon
+- heart o. balloon
+- heart y. balloon
+- heart g. balloon
+- heart c. balloon
+- heart b. balloon
+- heart i. balloon
+- heart p. balloon
+- red pinwheel
+- orange pinwheel
+- yellow pinwheel
+- green pinwheel
+- cyan pinwheel
+- blue pinwheel
+- indigo pinwheel
+- pink pinwheel
+- coffee beans
+- coffee
+- custom design
+- custom design
+- custom design
+- custom design
+- custom design
+- custom design
+- custom design
+- custom design
+- custom design
+- custom design
+- custom design
+- custom design
+- custom design
+- custom design
+- custom design
+- custom design
+- custom design
+- custom design
+- custom design
+- custom design
+- custom design
+- custom design
+- custom design
+- custom design
+- custom design
+- custom design
+- brown basic door
+- yellow basic door
+- pink basic door
+- green basic door
+- blue basic door
+- yellow fish door
+- red fish door
+- pink fish door
+- green fish door
+- blue fish door
+
+## HHD Item 73.nfc
+
+- gray ultramod door
+- brown ultramod door
+- yellow ultramod door
+- blue ultramod door
+- purple ultramod door
+- brown classic door
+- yellow classic door
+- pink classic door
+- white classic door
+- blue classic door
+- yellow studded door
+- green studded door
+- blue studded door
+- white studded door
+- purple studded door
+- metal door
+- brown metal door
+- white metal door
+- red metal door
+- yellow metal door
+- cabin door
+- yellow cabin door
+- pink cabin door
+- white cabin door
+- purple cabin door
+- fairy-tale door
+- y. fairy-tale door
+- p. fairy-tale door
+- g. fairy-tale door
+- b. fairy-tale door
+- sturdy brown door
+- sturdy yellow door
+- sturdy gray door
+- sturdy blue door
+- sturdy door
+- zen door
+- yellow zen door
+- gray zen door
+- red zen door
+- white zen door
+- yellow shutter door
+- pink shutter door
+- green shutter door
+- white shutter door
+- purple shutter door
+- yellow bamboo door
+- brown bamboo door
+- green bamboo door
+- red bamboo door
+- white bamboo door
+- gold steel door
+- red steel door
+- brown steel door
+- gray steel door
+- purple steel door
+- patched door
+- green modern door
+- blue modern door
+- white modern door
+- purple modern door
+- modern door
+- sweets door
+- ice door
+- arched imperial door
+
+## HHD Item 74.nfc
+
+- mermaid door
+- arched kiddie door
+- green kiddie door
+- pastel kiddie door
+- cardboard door
+- mushroom door
+- yellow lovely door
+- lovely door
+- blue lovely door
+- white lovely door
+- purple lovely door
+- paneled door
+- yellow paneled door
+- pink paneled door
+- red paneled door
+- white paneled door
+- Jingle door
+- spooky door
+- paint-splatter door
+- modern wood door
+- brown basic door
+- yellow basic door
+- pink basic door
+- green basic door
+- blue basic door
+- yellow fish door
+- red fish door
+- pink fish door
+- green fish door
+- blue fish door
+- gray ultramod door
+- brown ultramod door
+- yellow ultramod door
+- blue ultramod door
+- purple ultramod door
+- brown classic door
+- yellow classic door
+- pink classic door
+- white classic door
+- blue classic door
+- yellow studded door
+- green studded door
+- blue studded door
+- white studded door
+- purple studded door
+- metal door
+- brown metal door
+- white metal door
+- red metal door
+- yellow metal door
+- cabin door
+- yellow cabin door
+- pink cabin door
+- white cabin door
+- purple cabin door
+- fairy-tale door
+- y. fairy-tale door
+- p. fairy-tale door
+- g. fairy-tale door
+- b. fairy-tale door
+- sturdy brown door
+- sturdy yellow door
+- sturdy gray door
+- sturdy blue door
+
+## HHD Item 75.nfc
+
+- sturdy door
+- zen door
+- yellow zen door
+- gray zen door
+- red zen door
+- white zen door
+- yellow shutter door
+- pink shutter door
+- green shutter door
+- white shutter door
+- purple shutter door
+- yellow bamboo door
+- brown bamboo door
+- green bamboo door
+- red bamboo door
+- white bamboo door
+- gold steel door
+- red steel door
+- brown steel door
+- gray steel door
+- purple steel door
+- patched door
+- green modern door
+- blue modern door
+- white modern door
+- purple modern door
+- modern door
+- sweets door
+- ice door
+- imperial door
+- mermaid door
+- kiddie door
+- green kiddie door
+- pastel kiddie door
+- cardboard door
+- mushroom door
+- yellow lovely door
+- lovely door
+- blue lovely door
+- white lovely door
+- purple lovely door
+- paneled door
+- yellow paneled door
+- pink paneled door
+- red paneled door
+- white paneled door
+- Jingle door
+- spooky door
+- paint-splatter door
+- modern wood door
+- red roof
+- blue roof
+- pink roof
+- yellow roof
+- orange roof
+- light-blue roof
+- purple roof
+- pea-green roof
+- white tiled roof
+- brown tiled roof
+- green tiled roof
+- black tiled roof
+- teal tiled roof
+- purple tiled roof
+
+## HHD Item 76.nfc
+
+- navy tiled roof
+- dark-red tiled roof
+- yellow straw roof
+- red straw roof
+- brown straw roof
+- teal straw roof
+- black straw roof
+- grass roof
+- straw roof
+- green straw roof
+- brown metal roof
+- gray metal roof
+- metal roof
+- white metal roof
+- blue metal roof
+- purple metal roof
+- navy metal roof
+- green metal roof
+- yellow board roof
+- orange board roof
+- red board roof
+- brown board roof
+- blue shingle roof
+- orange shingle roof
+- brown shingle roof
+- black shingle roof
+- teal shingle roof
+- purple shingle roof
+- navy shingle roof
+- red shingle roof
+- yellow shanty roof
+- red shanty roof
+- brown shanty roof
+- gray shanty roof
+- white shanty roof
+- blue shanty roof
+- purple shanty roof
+- navy shanty roof
+- red overlap roof
+- blue overlap roof
+- yellow overlap roof
+- green overlap roof
+- white overlap roof
+- teal overlap roof
+- purple overlap roof
+- maroon overlap roof
+- red concrete roof
+- brown concrete roof
+- concrete roof
+- black concrete roof
+- white concrete roof
+- purple concrete roof
+- navy concrete roof
+- maroon concrete roof
+- red stone roof
+- brown stone roof
+- white stone roof
+- stone roof
+- purple stone roof
+- navy stone roof
+- green stone roof
+- maroon stone roof
+- fairy-tale roof
+- kiddie roof
+
+## HHD Item 77.nfc
+
+- astro roof
+- sweets roof
+- green kiddie roof
+- pastel kiddie roof
+- mermaid roof
+- red brick roof
+- gray brick roof
+- elegant roof
+- mushroom roof
+- lovely roof
+- ice roof
+- golden roof
+- paint-splatter roof
+- cardboard roof
+- modern wood roof
+- Jingle roof
+- uneven stone roof
+- spooky roof
+- rope fence
+- picket fence
+- country fence
+- hedge
+- pink mermaid fence
+- blue mermaid fence
+- red brick fence
+- gray brick fence
+- pink fence
+- fairy-tale fence
+- corral fence
+- curvy fence
+- blue fence
+- fancy fence
+- zen fence
+- barbed-wire fence
+- sweets fence
+- concrete fence
+- shanty fence
+- bamboo fence
+- sculpted hedge
+- cinder-block wall
+- golden fence
+- ice wall
+- pipe fence
+- imperial fence
+- log fence
+- ivy fence
+- lattice fence
+- green fence
+- brick exterior
+- exotic exterior
+- cobblestone exterior
+- astro exterior
+- kiddie exterior
+- simple exterior
+- gold cabana exterior
+- zen exterior
+- fairy-tale exterior
+- cabin exterior
+- shanty exterior
+- concrete exterior
+- sweets exterior
+- white brick exterior
+- chalet exterior
+- brown brick exterior
+
+## HHD Item 78.nfc
+
+- mermaid exterior
+- red-barn exterior
+- blue chalet exterior
+- pink exterior
+- blue exterior
+- orange exterior
+- garden exterior
+- yellow exterior
+- white exterior
+- stucco exterior
+- stone exterior
+- melon exterior
+- earthy exterior
+- fancy exterior
+- black exterior
+- golden exterior
+- aquamarine exterior
+- cabana exterior
+- pink-barn exterior
+- white cabin exterior
+- brown wood exterior
+- chalet exterior
+- rust shanty exterior
+- gray shanty exterior
+- red brick exterior
+- gray brick exterior
+- neon kiddie ext.
+- pastel kiddie ext.
+- elegant exterior
+- mushroom exterior
+- lovely exterior
+- Jingle exterior
+- modern wood exterior
+- paint-splatter ext.
+- ice exterior
+- spooky exterior
+- cardboard exterior
+- small house
+- medium house
+- large house
+- two-story house
+- lopsided house
+- lopsided house
+- mansion
+- zen castle
+- castle
+- modern mansion
+- domed palace
+- large fortress
+- large thatched house
+- small thatched house
+- thatched house
+- small zen house
+- zen house
+- small modern house
+- modern house
+- small eaved house
+- eaved house
+- small country house
+- country house
+- sm. fairy-tale house
+- fairy-tale house
+- small fortress
+- fortress
+
+## HHD Item 79.nfc
+
+- small domed house
+- domed house
+- no window
+- white picture window
+- black arched window
+- brown exotic window
+- red double window
+- black lattice window
+- brown sash window
+- yellow shoji window
+- white frame window
+- gray sash window
+- brown shoji window
+- white arched window
+- red exotic window
+- white lattice window
+- brown lattice window
+- gray double window
+- brown double window
+- green double window
+- blue double window
+- black frame window
+- brown frame window
+- gray frame window
+- yellow frame window
+- black picture window
+- brown picture window
+- blue picture window
+- red picture window
+- green picture window
+- pink picture window
+- gray picture window
+- no curtains
+- green curtains
+- leaf shade
+- rainbow blinds
+- wooden blinds
+- lace curtains
+- bamboo blinds
+- stage curtains
+- kabuki curtains
+- white frill curtains
+- black frill curtains
+- white blinds
+- black blinds
+- neighborhood shade
+- shutter shade
+- red dotted curtains
+- blue dotted curtains
+- yellow dotted curtains
+- candy gingham curts.
+- lemon gingham curts.
+- melon gingham curts.
+- mint gingham curts.
+- berry gingham curts.
+- Gracie curtains
+- dark polka curtains
+- lite polka curtains
+- gumdrop curtains
+- jade plaid curtains
+- blue plaid curtains
+- straw curtains
+- snow curtains
+- lovely curtains
+
+## HHD Item 80.nfc
+
+- star curtains
+- night-sky curtains
+- block curtains
+- jungle-camo curtains
+- desert-camo curtains
+- arctic-camo curtains
+- zebra curtains
+- tiger curtains
+- cow curtains
+- leopard curtains
+- giraffe curtains
+- wave curtains
+- paw curtains
+- light-blue door
+- pink door
+- gothic doors
+- theater doors
+- kitchen divider
+- shop divider
+- dotted sliding doors
+- wood sliding doors
+- robo-doors
+- sliding doors
+- stripe sliding doors
+- train doors
+- baroque doors
+- gorgeous doors
+- zen gate
+- antique door
+- ornate imperial door
+- black door
+- blue door
+- brown door
+- kiddie door
+- green door
+- purple door
+- red door
+- white door
+- yellow door
+- ranch door
+- curtained door
+- wood-grain door
+- blue iron door
+- metal lattice door
+- red iron door
+- laboratory door
+- office door
+- quaint door
+- cabana door
+- stylish door
+- exotic divider
+- blossom divider
+- sliding screen
+- hospital door
+- school door
+- paper sliding door
+- folding door
+- no door
+- tree
+- cedar
+- decorated tree
+- apple tree
+- orange tree
+- pear tree
+
+## HHD Item 81.nfc
+
+- peach tree
+- cherry tree
+- palm tree
+- durian tree
+- lemon tree
+- lychee tree
+- mango tree
+- persimmon tree
+- banana tree
+- bamboo tree
+- perfect-apple tree
+- perfect-orange tree
+- perfect-pear tree
+- perfect-peach tree
+- perfect-cherry tree
+- holly
+- pink azalea
+- white azalea
+- blue hydrangea
+- pink hydrangea
+- red hibiscus
+- yellow hibiscus
+- sweet olive
+- shrubs
+- small tree
+- tree stump
+- bare tree
+- small cedar
+- cedar stump
+- small palm tree
+- fruit-free palm tree
+- palm-tree stump
+- small bamboo
+- bamboo stumps
+- red tulips
+- white tulips
+- yellow tulips
+- pink tulips
+- purple tulips
+- black tulips
+- orange tulips
+- white pansies
+- yellow pansies
+- red pansies
+- purple pansies
+- orange pansies
+- blue pansies
+- white cosmos
+- red cosmos
+- yellow cosmos
+- pink cosmos
+- orange cosmos
+- black cosmos
+- red roses
+- white roses
+- yellow roses
+- pink roses
+- orange roses
+- purple roses
+- black roses
+- blue roses
+- gold roses
+- red carnations
+- pink carnations
+
+## HHD Item 82.nfc
+
+- white carnations
+- white lilies
+- yellow lilies
+- red lilies
+- orange lilies
+- pink lilies
+- black lilies
+- purple violets
+- blue violets
+- white violets
+- yellow violets
+- lily of the valley
+- clovers
+- dandelions
+- dandelion puffs
+- cobblestone bridge
+- brick bridge
+- wooden bridge
+- suspension bridge
+- fairy-tale bridge
+- modern bridge
+- ? silence
+- ? ringing
+- ? echoes
+- ? cheering
+- ? bustle
+- ? rain
+- ? jungle sounds
+- ? beach sounds
+- ? city sounds
+- ? prairie sounds
+- ? wilderness sounds
+- ? construction sounds
+- ? space sounds
+- ? underwater sounds
+- ? train sounds
+- one-ball tee
+- two-ball tee
+- three-ball tee
+- four-ball tee
+- five-ball tee
+- six-ball tee
+- seven-ball tee
+- eight-ball tee
+- nine-ball tee
+- paw tee
+- daisy tee
+- tulip tee
+- cherry tee
+- skull tee
+- U-R-here tee
+- lightning tee
+- MVP tee
+- BB tee
+- fish tee
+- frog tee
+- bear tee
+- bunny tee
+- bunny shirt
+- elephant tee
+- spade tee
+- diamond tee
+- club tee
+- heart tee
+
+## HHD Item 83.nfc
+
+- big-star tee
+- bright tee
+- A tee
+- No. 1 shirt
+- No. 2 shirt
+- No. 3 shirt
+- No. 4 shirt
+- No. 5 shirt
+- No. 23 shirt
+- No. 67 shirt
+- big bro's tee
+- li'l bro's tee
+- cloudy tee
+- fresh tee
+- dawn tee
+- misty tee
+- sunset tee
+- deep-blue tee
+- peachy tee
+- rainbow tee
+- sno-cone tee
+- orange tie-dye tee
+- purple tie-dye tee
+- green tie-dye tee
+- blue tie-dye tee
+- red tie-dye tee
+- bold-check tee
+- café tee
+- checkered tee
+- blue-check tee
+- red-check tee
+- dogtooth tee
+- tan dogtooth tee
+- rugby tee
+- green-bar tee
+- yellow-bar tee
+- grape-stripe tee
+- beatnik tee
+- red-bar tee
+- blue-stripe tee
+- blue-stripe shirt
+- gelato tee
+- chain-gang tee
+- speedway tee
+- yellow tartan tee
+- fall plaid tee
+- blue tartan tee
+- dapper tee
+- natty tee
+- blue-grid tee
+- red-grid tee
+- dazed tee
+- checkerboard tee
+- Toad tee
+- dark polka tee
+- lite polka tee
+- bubble-gum tee
+- funky-dot tee
+- gumdrop tee
+- big-dot tee
+- aqua polka tee
+- blue-bar tee
+- gold-bar tee
+- brown-bar tee
+
+## HHD Item 84.nfc
+
+- vegetarian tee
+- racer tee
+- pastel-stripe tee
+- rally tee
+- racer 6 tee
+- vertigo tee
+- barber tee
+- jade plaid tee
+- blue plaid tee
+- mint gingham tee
+- picnic tee
+- candy gingham tee
+- lemon gingham tee
+- melon gingham tee
+- bad plaid tee
+- pink tartan tee
+- waffle tee
+- gray tartan tee
+- gray tartan shirt
+- red argyle shirt
+- red argyle tee
+- blue argyle shirt
+- blue argyle tee
+- pink argyle shirt
+- pink argyle tee
+- cyan argyle shirt
+- cyan argyle tee
+- chevron shirt
+- icy shirt
+- aurora knit shirt
+- winter sweater
+- folk shirt
+- argyle knit shirt
+- uncommon shirt
+- comfy sweater
+- beige knit shirt
+- earthy knit shirt
+- spring shirt
+- lively knit shirt
+- deer shirt
+- monkey shirt
+- chocomint tee
+- fern tee
+- leaf tee
+- fall leaf tee
+- straw shirt
+- grass tee
+- snow shirt
+- lovely tee
+- bubble tee
+- chichi-print tee
+- coral tee
+- groovy tee
+- flame tee
+- danger tee
+- Gracie tank
+- future tank
+- optical shirt
+- twinkle tee
+- star tee
+- night-sky tee
+- amethyst tee
+- nebula tee
+- dice tank
+
+## HHD Item 85.nfc
+
+- kiddie tee
+- airy tee
+- crossing shirt
+- splendid tee
+- jagged tee
+- subdued-print tee
+- sharp outfit
+- painter's tee
+- jungle-camo tee
+- arctic-camo tee
+- desert-camo tee
+- circuit tank
+- pulse tank
+- zebra tee
+- tiger tee
+- cow tee
+- leopard tee
+- giraffe tee
+- ladybug tank
+- spiderweb tee
+- caterpillar tank
+- fiendish shirt
+- citrus tee
+- kiwi tee
+- watermelon tee
+- strawberry tee
+- grape tee
+- melon tee
+- pink wave tank
+- flan tank
+- hot-dog tank
+- sandwich tank
+- noodle tee
+- sundae tank
+- dragon suit
+- periwinkle tee
+- hot spring tee
+- new spring tee
+- crewel tee
+- tropical tee
+- corseted shirt
+- noble shirt
+- red aloha tee
+- blue aloha tee
+- western shirt
+- royal shirt
+- firefighter shirt
+- doctor's coat
+- bone shirt
+- zipper shirt
+- mummy shirt
+- military uniform
+- sailor's tee
+- reggae tee
+- camel shirt
+- concierge shirt
+- tuxedo
+- explorer tee
+- soccer tee
+- red down jacket
+- blue down jacket
+- cavalier shirt
+- beaded shirt
+- wrap shirt
+
+## HHD Item 86.nfc
+
+- wrestler tank
+- security tee
+- bear costume
+- frog costume
+- kappa costume
+- imperial shirt
+- racing shirt
+- orange jacket
+- tin shirt
+- scale-armor suit
+- armor suit
+- gold-armor suit
+- striking outfit
+- red warm-up suit
+- baseball shirt
+- red gym tee
+- blue gym tee
+- space suit
+- caveman tank
+- kung-fu tee
+- pleather vest
+- cycling shirt
+- cycling tee
+- chef's outfit
+- genie shirt
+- red-zap suit
+- blue-zap suit
+- green-zap suit
+- samurai shirt
+- patched shirt
+- hero's clothes
+- Varia Suit
+- team NTDO tee
+- gray parka
+- fishing vest
+- captain's jacket
+- ninja shirt
+- detective outfit
+- Santa coat
+- chick tee
+- scale-print tee
+- jinbei top
+- kanji tee
+- raglan shirt
+- happi tee
+- red letter jacket
+- blue letter jacket
+- black letter jacket
+- tiger jacket
+- dragon jacket
+- red flannel shirt
+- blue flannel shirt
+- black flannel shirt
+- pink-bud tank
+- garden tank
+- lacy white tank
+- pink tank
+- hanten shirt
+- work shirt
+- tan puffy vest
+- after-school jacket
+- kids' smock
+- school jacket
+- mint shirt
+
+## HHD Item 87.nfc
+
+- denim jacket
+- prism tee
+- denim vest
+- green gym tee
+- green emblem blazer
+- acid-washed jacket
+- red ringmaster coat
+- white tuxedo jacket
+- black-denim jacket
+- basketball tank
+- Iberian jacket
+- pink parka
+- jockey shirt
+- blue track jacket
+- sweater-vest
+- waistcoat
+- black track jacket
+- beige emblem blazer
+- clerk's shirt
+- green warm-up jacket
+- blue ringmaster coat
+- relay tank
+- snowy sweater
+- red jacket
+- blue jacket
+- floral knit tee
+- dreamy tee
+- pop-bloom tee
+- silk-bloom tee
+- blossom tee
+- yellow aloha tee
+- loud-bloom tee
+- rose-sky tee
+- blue diamond shirt
+- lotus tee
+- rose tee
+- pep-squad tee
+- jester shirt
+- swell shirt
+- go-go shirt
+- Festivale tank
+- pink pj shirt
+- blue pj shirt
+- canary shirt
+- flight-crew shirt
+- café uniform
+- peacoat
+- shearling coat
+- mod shirt
+- tacky sweater
+- sunflower tee
+- green-stripe tank
+- gray tank
+- preppy shirt
+- flowery tee
+- HHA tee
+- HHA men's jacket
+- HHA women's jacket
+- men's interview suit
+- women's interview suit
+- men's agent coat
+- women's agent coat
+- Dr. Shrunk's jacket
+- 24-hour-shop uniform
+
+## HHD Item 88.nfc
+
+- swell tee
+- blue diamond tee
+- raglan tee
+- MVP shirt
+- jade plaid shirt
+- red-check shirt
+- rugby shirt
+- painter's shirt
+- pulse shirt
+- toad shirt
+- sailor's shirt
+- frog shirt
+- blue-grid shirt
+- kung-fu shirt
+- tan dogtooth shirt
+- bad plaid shirt
+- fern shirt
+- arctic-camo shirt
+- fall leaf shirt
+- elephant shirt
+- red-grid shirt
+- chain-gang shirt
+- dogtooth shirt
+- moldy shirt
+- waffle shirt
+- vegetarian shirt
+- blue-check shirt
+- picnic shirt
+- natty shirt
+- pink tartan shirt
+- checkerboard shirt
+- dark polka shirt
+- lemon gingham shirt
+- brown-bar shirt
+- dazed shirt
+- nebula shirt
+- bubble-gum shirt
+- blue-bar shirt
+- lite polka shirt
+- yellow-bar shirt
+- yellow tartan shirt
+- amethyst shirt
+- soccer shirt
+- grape-stripe shirt
+- red-bar shirt
+- candy gingham shirt
+- skull shirt
+- flame shirt
+- vertigo shirt
+- green-bar shirt
+- gelato shirt
+- dapper shirt
+- desert-camo shirt
+- jungle-camo shirt
+- beatnik shirt
+- gold-bar shirt
+- fall plaid shirt
+- blue tartan shirt
+- mint gingham shirt
+- bear shirt
+- melon gingham shirt
+- blue plaid shirt
+- melon shirt
+- watermelon shirt
+
+## HHD Item 89.nfc
+
+- zipper tank
+- misty tank
+- purple tie-dye tank
+- jester tank
+- grape tank
+- sno-cone tank
+- aqua polka tank
+- strawberry tank
+- peachy tank
+- reggae tank
+- blue argyle tank
+- twinkle tank
+- green tie-dye tank
+- cool tank
+- optical tank
+- jagged tank
+- rally tank
+- bubble tank
+- deep-blue tank
+- beaded tank
+- coral tank
+- pink argyle tank
+- funky-dot tank
+- groovy tank
+- fresh tank
+- tropical tank
+- sunset tank
+- citrus tank
+- blue tie-dye tank
+- giraffe tank
+- orange tie-dye tank
+- zebra tank
+- tiger tank
+- kiwi tank
+- red tie-dye tank
+- pep-squad tank
+- dawn tank
+- beatnik tank
+- big-dot tank
+- rainbow tank
+- leopard tank
+- cow tank
+- genie vest
+- cyan argyle tank
+- retro swimsuit
+- supermarket outfit
+- stylish suit
+- polo shirt
+- women's office suit
+- blue nurse's uniform
+- flashy suit
+- store uniform
+- sushi chef's outfit
+- comedian's outfit
+- musician's outfit
+- rubber apron
+- frilly apron
+- Felyne's suit
+- festive dress
+- muumuu
+- blue dotted dress
+- tan dogtooth dress
+- prim outfit
+- overall dress
+
+## HHD Item 90.nfc
+
+- pink lace-up dress
+- academy uniform
+- prep-school uniform
+- blue party dress
+- pink party dress
+- yellow dotted dress
+- pinafore
+- plaid cami dress
+- green dress
+- butterfly dress
+- gaudy dress
+- sea captain's coat
+- pink-zap suit
+- fleece dress
+- vogue dress
+- citrus gingham dress
+- floral knit dress
+- dreamy tank dress
+- silk-bloom dress
+- pop-bloom dress
+- blossom dress
+- loud-bloom dress
+- rose tank dress
+- rose-sky tank dress
+- lotus tank dress
+- blue retro dress
+- orange retro dress
+- cool dress
+- moldy dress
+- blossoming dress
+- ribbon dress
+- blue lace-up dress
+- orange lace-up dress
+- green lace-up dress
+- lime dress
+- turnip dress
+- yodel dress
+- red riding dress
+- witch's robe
+- graduation gown
+- sky dress
+- alpinist dress
+- kimono
+- milkmaid dress
+- toga
+- cake dress
+- waitress dress
+- princess dress
+- fairy-tale dress
+- pink polka dress
+- palatial tank dress
+- poncho
+- fluffy dress
+- cat dress
+- plum coat
+- frock coat
+- casual outfit
+- maid dress
+- trench coat
+- pharaoh's outfit
+- bathrobe
+- polka-dot dress
+- patched dress
+- black-velvet dress
+
+## HHD Item 91.nfc
+
+- dazed dress
+- dogtooth dress
+- nurse's uniform
+- embroidered dress
+- Festivale tank dress
+- tartan-plaid outfit
+- sweater dress
+- shirtdress
+- red dress
+- yellow raincoat
+- dollhouse dress
+- festive-tree dress
+- ballet outfit
+- classic dress
+- U-R-here dress
+- natty dress
+- dapper dress
+- gumdrop dress
+- chima jeogori dress
+- spring kimono
+- caveman tank dress
+- star tank dress
+- twinkle tank dress
+- pastel-stripe dress
+- cat tank dress
+- cake tank dress
+- fluffy tank dress
+- lovely dress
+- blue ballet outfit
+- musician's outfit
